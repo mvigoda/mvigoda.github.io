@@ -91,4 +91,9 @@ print(1+1)
 
 [Blogging Advice] https://www.fast.ai/2019/05/13/blogging-advice
 
-[link text itself]: http://www.reddit.com
+[link text itself]: http://www.reddit.com  
+
+
+
+
+[Follow up Post] https://www.fast.ai/2020/01/16/fast_template/
