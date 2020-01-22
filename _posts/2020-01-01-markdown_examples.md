@@ -83,3 +83,12 @@ print(1+1)
 
 [^1]: This is the footnote.
 
+
+
+
+
+
+
+[Blogging Advice] https://www.fast.ai/2019/05/13/blogging-advice
+
+[link text itself]: http://www.reddit.com
