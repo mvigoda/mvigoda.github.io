@@ -1,4 +1,8 @@
-Hello and welcome to my blog.  
+1. TOC
+{:toc}
+
+
+# Supertitle
 
 Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
 
