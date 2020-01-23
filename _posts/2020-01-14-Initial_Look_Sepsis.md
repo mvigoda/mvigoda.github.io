@@ -28,18 +28,22 @@ The first line of the file should start with a single hash character, then a spa
 
 Here's a footnote [^1]. Here's a horizontal rule  
 
-## Sepsis as a Percentage of Total Payments
-
-
-![](/images/871 discharges.svg "871 Discharges")      
-
-![](/images/871 Payments.svg "871 Payments")     
 
 
 ![](/images/2017 Top DRGs - Discharges.svg "Top Discharges 2017")     
 
 
 ![](/images/2017 Top DRGs - Payments.svg "Top Payments 2017")     
+
+
+
+
+## Sepsis as a Percentage of Total Payments
+
+
+![](/images/871 discharges.svg "871 Discharges")      
+
+![](/images/871 Payments.svg "871 Payments")     
 
 
 
