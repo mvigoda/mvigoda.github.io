@@ -5,13 +5,20 @@ Here's the table of contents:
 1. TOC
 {:toc}
 
-## Latex
+## Latex  
+### Examples of Latex
 
 $\sum_n (x)$  
 
 $$
 \sum_n (x)
 $$
+
+  
+Are $a, b \in \mathbb{R}, then applies (a+b)^{2} = a^{2} + ab + b^{2} $ \\ 
+better \\ 
+are $a, b \in \mathbb{R}, \textrm{then apply} \, (a+b)^{2 } = a^{2 } + ab + b^{2}$\\ 
+
 
 
 
