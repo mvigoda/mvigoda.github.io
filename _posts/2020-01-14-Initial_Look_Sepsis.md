@@ -31,6 +31,9 @@ Here's a footnote [^1]. Here's a horizontal rule
 ## Sepsis as a Percentage of Total Payments
 
 
+![](/images/871 discharges.svg "871 Discharges")     
+
+
 ![](/images/SepsisPercentageTotalPayments.svg "Sepsis as % of Total Payments")     
 
 
