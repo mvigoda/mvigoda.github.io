@@ -14,6 +14,13 @@ $$
 \sum_n (x)
 $$
 
+
+α β χ δ ε η γ ι
+$\alpha $
+\beta λ \chi μ \delta ν \epsilon o \eta ω \gamma φ \iota π
+\kappa ψ \lambda ρ \mu σ \nu τ oθ \omega υ \phi ξ \pi 
+
+
   
 Are $a, b \in \mathbb{R}, then  applies:  
 (a+b)^{2} = a^{2} + ab + b^{2} $ \better \ 
