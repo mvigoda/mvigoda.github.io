@@ -6,7 +6,9 @@ Here's the table of contents:
 {:toc}
 
 ## Latex  
-### Examples of Latex
+### Examples of Latex  
+
+[Latex cheatsheet](#https://www.caam.rice.edu/~heinken/latex/symbols.pdf)
 
 $\sum_n (x)$  
 
