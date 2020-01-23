@@ -15,9 +15,9 @@ $$
 $$
 
   
-Are $a, b \in \mathbb{R}, then applies (a+b)^{2} = a^{2} + ab + b^{2} $ \\ 
-better \\ 
-are $a, b \in \mathbb{R}, \textrm{then apply} \, (a+b)^{2 } = a^{2 } + ab + b^{2}$\\ 
+Are $a, b \in \mathbb{R}, then  applies:  
+(a+b)^{2} = a^{2} + ab + b^{2} $ \better \ 
+are $a, b \in \mathbb{R}, \textrm{then apply} \, (a+b)^{2 } = a^{2 } + ab + b^{2}$\
 
 
 \left( \begin{array}{cc} 2\tau & 7\phi-frac5{12} \\ 3\psi & \frac{\pi}8 \end{array} \right) \left( \begin{array}{c} x \\ y \end{array} \right)
