@@ -8,7 +8,21 @@ Here's the table of contents:
 ## Latex  
 ### Examples of Latex  
 
-[Latex cheatsheet](#https://www.caam.rice.edu/~heinken/latex/symbols.pdf)
+[Latex cheatsheet](#https://www.caam.rice.edu/~heinken/latex/symbols.pdf)  
+
+
+\begin{markdown}
+Inline math equations go in like so: $\omega = d\phi / dt$. 
+Displaymath can be written as:
+ 
+\begin{equation}
+I = \int \rho R^{2} dV
+\end{equation}
+ 
+You can backslash-escape any punctuation characters
+which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
+\end{markdown}
+
 
 $\sum_n (x)$  
 
