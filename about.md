@@ -1,8 +1,3 @@
 # About
+[LinkedIn] (#https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwj7xIrV8aLnAhUKsJ4KHUQJB8EQFjAAegQIBhAB&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmichael-vigoda-md-mba-bbb7ab5&usg=AOvVaw3cCn9KdydSHJf4RdOcMJjA)
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.  
-
-
-Could put email, CV etc here
-
-End of the About page
