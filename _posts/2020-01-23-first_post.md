@@ -1,4 +1,4 @@
-# Beginning. 
+# Beginning   
 
 First post
 
