@@ -1,4 +1,4 @@
-# This is the title
+# Table of Contents
 
 Here's the table of contents:
 
