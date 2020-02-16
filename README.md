@@ -10,4 +10,4 @@ http://mvigoda.github.io/stocks.html.
 
 
 
-[Stocks](#http://mvigoda.github.io/stocks.html)
+[Stocks](http://mvigoda.github.io/stocks.html)
