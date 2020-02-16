@@ -9,6 +9,9 @@ here is additional content
 
 
 
-[Stocks](http://mvigoda.github.io/stocks.html). 
+[Stocks](http://mvigoda.github.io/datasets/stocks.html)  
 
 [Chart](http://mvigoda.github.io/chart.html)
+
+[DRG 871](http://mvigoda.github.io/datasets/DRG_871_Chart.html)  
+
