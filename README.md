@@ -6,8 +6,9 @@ This is the repository for your blog! Click *_config.yml* above to get started a
 here is additional content
 
 
-http://mvigoda.github.io/stocks.html. 
 
 
 
-[Stocks](http://mvigoda.github.io/stocks.html)
+[Stocks](http://mvigoda.github.io/stocks.html). 
+
+[Chart](http://mvigoda.github.io/chart.html)
