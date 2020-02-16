@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.0.2"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "data": {"url": "http://michaelvigoda.com/datasets/Discharges/DRG 871.json"}, "mark": "point", "encoding": {"color": {"condition": {"type": "nominal", "field": "year", "legend": null, "selection": "Year"}, "value": "lightgray"}, "opacity": {"value": 0.9}, "tooltip": {"type": "nominal", "field": "name"}, "x": {"type": "quantitative", "field": "discharges"}, "y": {"type": "quantitative", "field": "disc_times_pay"}}, "height": 400, "selection": {"Year": {"type": "single", "fields": ["year"], "bind": {"input": "select", "options": [2011, 2012, 2013, 2014, 2015, 2016, 2017]}}}, "title": "DRG 871", "width": 900, "$schema": "https://vega.github.io/schema/vega-lite/v4.0.2.json"};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
