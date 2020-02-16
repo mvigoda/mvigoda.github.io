@@ -18,6 +18,20 @@
 
 ## Top DRGs
 
+
+
+
+[Stocks](http://mvigoda.github.io/datasets/stocks.html)  
+
+[Chart](http://mvigoda.github.io/chart.html)
+
+[DRG 871](http://mvigoda.github.io/datasets/DRG_871_Chart.html)  
+
+
+
+
+
+
 And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
 
 
