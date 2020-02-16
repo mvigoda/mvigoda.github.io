@@ -19,7 +19,9 @@
 ## Top DRGs
 
 
-[Discharges](http://mvigoda.github.io/datasets/stocks.html)
+[Discharges](http://mvigoda.github.io/Charts/landing.html)
+
+
 
 [Stocks](http://mvigoda.github.io/datasets/stocks.html)  
 
