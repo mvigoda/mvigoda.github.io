@@ -26,7 +26,7 @@
 [DRG 190](http://mvigoda.github.io/datasets/New_DRG_190_Chart.html)   
 [303](http://mvigoda.github.io/datasets/New_DRG_303_Chart.html)  
 
-[newer 303](http://mvigoda.github.io/Newer_DRG_303_Chart.html)  
+[newer 303](http://mvigoda.github.io/datasets/Newer_DRG_303_Chart.html)  
 
 [Stocks](http://mvigoda.github.io/datasets/stocks.html)  
 
