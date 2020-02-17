@@ -21,9 +21,9 @@
 
 [Chart](http://mvigoda.github.io/chart.html)
 
-[DRG 870](http://mvigoda.github.io/datasets/DRG_870_Chart.html)  
+[DRG 870](http://mvigoda.github.io/datasets/Discharges/DRG_870_Chart.html)  
 
-[DRG 871](http://mvigoda.github.io/datasets/DRG_871_Chart.html)  
+[DRG 871](http://mvigoda.github.io/datasets/Discharges/DRG_871_Chart.html)  
 
 
-[DRG 378](http://mvigoda.github.io/datasets/DRG_378_Chart.html)  
+[DRG 378](http://mvigoda.github.io/datasets/Discharges/DRG_378_Chart.html)  
