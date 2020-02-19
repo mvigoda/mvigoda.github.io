@@ -1,6 +1,17 @@
-# Top DRGs (based on 2017 Discharges)  
+# Top DRGs  
+Based on 2017 Discharges
 
 
+
+<br>
+<div style="text-align: center;"><IMG SRC="Pics/Top_DRGs_2017_Discharges.svg"  width="600" height="600" ALT="image">
+<em></em></div>
+<br>
+
+
+
+
+ 
 
 1.  [871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC](http://mvigoda.github.io/datasets/Discharges/1_871_Chart.html)  
 2.  [470 - MAJOR JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY W/O MCC](http://mvigoda.github.io/datasets/Discharges/2_470_Chart.html)  
