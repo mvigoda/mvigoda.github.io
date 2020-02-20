@@ -2,15 +2,7 @@
 Based on 2017 Discharges
 
 
-<br>
-<div style="text-align: center;"> <IMG class="plain" SRC="visualization-2.png"  width="600" height="600" ALT="image">
-<em></em></div>
-<br>
 
-<br>
-<div style="text-align: center;"> <IMG class="plain" SRC="visualization-2.svg"  width="600" height="600" ALT="image">
-<em></em></div>
-<br>
 
 <br>
 <div style="text-align: center;"> <IMG class="plain" SRC="Top_DRGs_2017_Discharges.svg"  width="600" height="600" ALT="image">
