@@ -8,8 +8,6 @@ Based on 2017 Discharges
  
  
 
-
-
 <br>
 <div style="text-align: center;"> <IMG class="plain" SRC="Top_Payments_2017.svg"  style="background:none; border:none; box-shadow:none;"  width="900" height="800" ALT="image">
 <em></em></div>
@@ -23,14 +21,15 @@ Based on 2017 Discharges
 <br>
 
 
+no text
 
+<img src="Sepsis_Cumulative.svg" style="background:none; border:none; box-shadow:none;"> <em></em>
+ <br>
+ 
 
-<br>
-<div style="text-align: center;"> <IMG class="plain" SRC="Sepsis Cumulative.svg"  style="background:none; border:none; box-shadow:none;"  width="900" height="800" ALT="image">
-<em></em></div>
-<br>
-
-
+<img src="Top_Discharges_2017.svg" style="background:none; border:none; box-shadow:none;"> <em></em>
+ <br>
+ 
 
 
 
