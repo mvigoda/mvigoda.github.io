@@ -7,7 +7,7 @@ Based on 2017 Discharges
  <br>
  
 <p>
-  <a href="datasets/Discharge/holding.md" title="Redirect to holding">
+  <a href="http://mvigoda.github.io/datasets/Discharges/1_871_Chart.html" title="Redirect to holding">
     <img src="Top_Discharges_2017.svg" style="background:none; border:none; box-shadow:none;" alt="holding" />
   </a>
 </p>
