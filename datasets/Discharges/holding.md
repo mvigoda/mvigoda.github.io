@@ -12,6 +12,12 @@ Based on 2017 Discharges
 <br>
 
 <br>
+<div style="text-align: center; background:none; border:none; box-shadow:none;"> <IMG class="plain" SRC="Top_DRGs_2017_Discharges.svg"  width="600" height="600" ALT="image">
+<em>here</em></div>
+ 
+<br>
+ 
+<br>
 <div style="text-align: center;"> <IMG class="plain" SRC="Top_DRGs_2017_Discharges.svg"  width="600" height="600" ALT="image">
 <em></em></div>
 <br>
