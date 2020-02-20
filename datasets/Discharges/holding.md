@@ -1,6 +1,13 @@
 # Top DRGs  
 Based on 2017 Discharges
 
+.markdown-preview.markdown-preview {
+  .reveal section img {
+    border: none;
+    box-shadow: none;
+  }
+}
+
 
 
 <img src="SRC="Top_DRGs_2017_Discharges.svg" style="background:none; border:none; box-shadow:none;">
