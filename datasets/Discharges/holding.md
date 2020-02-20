@@ -10,7 +10,7 @@ Based on 2017 Discharges
 
 
 
-<img src="SRC="Top_DRGs_2017_Discharges.svg" style="background:none; border:none; box-shadow:none;">
+<img src="Top_DRGs_2017_Discharges.svg" style="background:none; border:none; box-shadow:none;">
  <br>
  
 
@@ -18,11 +18,13 @@ Based on 2017 Discharges
 <img class="plain"  SRC="Top_DRGs_2017_Discharges.svg"/>
 <br>
 
+
 <br>
-<div style="text-align: center; background:none; border:none; box-shadow:none;"> <IMG class="plain" SRC="Top_DRGs_2017_Discharges.svg"  width="600" height="600" ALT="image">
-<em>here</em></div>
- 
+<div style="text-align: center;"> <IMG class="plain" SRC="Top_DRGs_2017_Discharges.svg"  style="background:none; border:none; box-shadow:none;"  width="600" height="600" ALT="image">
+<em>11111</em></div>
 <br>
+
+
  
 <br>
 <div style="text-align: center;"> <IMG class="plain" SRC="Top_DRGs_2017_Discharges.svg"  width="600" height="600" ALT="image">
