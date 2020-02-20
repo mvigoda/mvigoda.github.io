@@ -1,12 +1,6 @@
 # Top DRGs  
 Based on 2017 Discharges
 
-.markdown-preview.markdown-preview {
-  .reveal section img {
-    border: none;
-    box-shadow: none;
-  }
-}
 
 
 
@@ -28,14 +22,14 @@ Based on 2017 Discharges
  
 <br>
 <div style="text-align: center;"> <IMG class="plain" SRC="Top_DRGs_2017_Discharges.svg"  width="600" height="600" ALT="image">
-<em></em></div>
+<em>222222</em></div>
 <br>
 
 
 
 <br>
 <div style="text-align: center;"><IMG SRC="Top_DRGs_2017_Discharges.svg"  width="600" height="600" ALT="image">
-<em>image_caption</em></div>
+<em>333333</em></div>
 <br>
 
 
