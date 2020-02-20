@@ -4,7 +4,7 @@ Based on 2017 Discharges
 
 test change
 
-<img src="Top_Discharges_2017.svg" style="background:none; border:none; box-shadow:none;"> <em>no width specification no border</em>
+<img src="Top_Discharges_2017.svg" style="background:none; border:none; box-shadow:none;"> <em></em>
  <br>
  
  
@@ -13,36 +13,9 @@ test change
 
 <br>
 <div style="text-align: center;"> <IMG class="plain" SRC="Top_Payments_2017.svg"  style="background:none; border:none; box-shadow:none;"  width="900" height="800" ALT="image">
-<em>900 x 800 no border</em></div>
+<em></em></div>
 <br>
 
-
-nothing below here
-
- 
-<br>
-<div style="text-align: center;"> <IMG class="plain" SRC="Top_DRGs_2017_Discharges.svg"  width="600" height="600" ALT="image">
-<em>222222</em></div>
-<br>
-
-
-
-<br>
-<div style="text-align: center;"><IMG SRC="Top_DRGs_2017_Discharges.svg"  width="600" height="600" ALT="image">
-<em>333333</em></div>
-<br>
-
-
-
-
-<img src="Top_DRGs_2017_Payments.svg" style="background:none; border:none; box-shadow:none;"> <em>no width specification no border. payments</em>
- <br>
- 
-
-<br>
-<div style="text-align: center;"><IMG SRC="Top_DRGs_2017_Payments.svg"  width="600" height="600" ALT="image">
-<em>800 x 800 payments</em></div>
-<br>
 
 
  
