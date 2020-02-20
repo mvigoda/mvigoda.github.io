@@ -4,18 +4,15 @@ Based on 2017 Discharges
 
 
 
-<img src="Top_DRGs_2017_Discharges.svg" style="background:none; border:none; box-shadow:none;">
+<img src="Top_DRGs_2017_Discharges.svg" style="background:none; border:none; box-shadow:none;"> <em>no width specification no border</em>
  <br>
  
 
 
-<img class="plain"  SRC="Top_DRGs_2017_Discharges.svg"/>
-<br>
-
 
 <br>
-<div style="text-align: center;"> <IMG class="plain" SRC="Top_DRGs_2017_Discharges.svg"  style="background:none; border:none; box-shadow:none;"  width="600" height="600" ALT="image">
-<em>11111</em></div>
+<div style="text-align: center;"> <IMG class="plain" SRC="Top_DRGs_2017_Discharges.svg"  style="background:none; border:none; box-shadow:none;"  width="800" height="800" ALT="image">
+<em>800 x 800 no border</em></div>
 <br>
 
 
@@ -35,9 +32,13 @@ Based on 2017 Discharges
 
 
 
+<img src="Top_DRGs_2017_Payments.svg" style="background:none; border:none; box-shadow:none;"> <em>no width specification no border. payments</em>
+ <br>
+ 
+
 <br>
 <div style="text-align: center;"><IMG SRC="Top_DRGs_2017_Payments.svg"  width="600" height="600" ALT="image">
-<em>image_caption</em></div>
+<em>800 x 800 payments</em></div>
 <br>
 
 
