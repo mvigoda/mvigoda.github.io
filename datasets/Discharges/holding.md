@@ -38,7 +38,7 @@ Conflict resolved
 
 
  
-Top DRGs for 2017
+[Top DRGs for 2017](Top_Discharges_2017.md)
 
 
 [Stocks](http://mvigoda.github.io/datasets/stocks.html)  
