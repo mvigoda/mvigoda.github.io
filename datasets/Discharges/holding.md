@@ -9,7 +9,22 @@ Based on 2017 Discharges
 
 
 
+<br>
+<div style="text-align: center;"><IMG SRC="Top_DRGs_2017_Discharges.svg"  width="600" height="600" ALT="image">
+<em>image_caption</em></div>
+<br>
 
+
+
+
+<br>
+<div style="text-align: center;"><IMG SRC="Top_DRGs_2017_Payments.svg"  width="600" height="600" ALT="image">
+<em>image_caption</em></div>
+<br>
+
+
+ 
+Top_DRGs_2017_Payments.svg
 
 
  
