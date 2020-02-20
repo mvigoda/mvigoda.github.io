@@ -2,7 +2,6 @@
 Based on 2017 Discharges
 
 
-test change
 
 <img src="Top_Discharges_2017.svg" style="background:none; border:none; box-shadow:none;"> <em></em>
  <br>
@@ -19,9 +18,18 @@ test change
 
 
 <br>
+<div style="text-align: center;"> <IMG class="plain" SRC="Sepsis_Cumulative.svg"  style="background:none; border:none; box-shadow:none;"  width="900" height="800" ALT="image">
+<em></em></div>
+<br>
+
+
+
+
+<br>
 <div style="text-align: center;"> <IMG class="plain" SRC="Sepsis Cumulative.svg"  style="background:none; border:none; box-shadow:none;"  width="900" height="800" ALT="image">
 <em></em></div>
 <br>
+
 
 
 
