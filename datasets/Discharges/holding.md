@@ -6,7 +6,12 @@ Based on 2017 Discharges
 <img src="Top_Discharges_2017.svg" style="background:none; border:none; box-shadow:none;"> <em></em>
  <br>
  
- 
+<p>
+  <a href="datasets/Discharge/holding.md" title="Redirect to holding">
+    <img src="Top_Discharges_2017.svg" style="background:none; border:none; box-shadow:none;" alt="holding" />
+  </a>
+</p>
+
 
 <br>
 <div style="text-align: center;"> <IMG class="plain" SRC="Top_Payments_2017.svg"  style="background:none; border:none; box-shadow:none;"  width="900" height="800" ALT="image">
