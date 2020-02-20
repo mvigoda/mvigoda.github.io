@@ -19,16 +19,9 @@ Based on 2017 Discharges
 <div style="text-align: center;"> <IMG class="plain" SRC="Sepsis_cumulative.svg"  style="background:none; border:none; box-shadow:none;"  width="900" height="800" ALT="image">
 <em></em></div>
 <br>
-<<<<<<< HEAD
 
 
-
-<img src="Sepsis_cumulative.svg" style="background:none; border:none; box-shadow:none;"> <em></em>
- <br>
- 
- 
-=======
->>>>>>> 3e8322cad88dbcf7107e22fd37840feeff75a16b
+Conflict resolved
 
 
  
