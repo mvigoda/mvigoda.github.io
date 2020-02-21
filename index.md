@@ -6,6 +6,8 @@
 [in misc sample](http://michaelvigoda.com//Miscellaneous/In_Misc_sample.md) 
 
 
+[google](http://google.com) 
+
 
 
 
