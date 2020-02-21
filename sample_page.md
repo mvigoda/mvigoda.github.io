@@ -1,7 +1,6 @@
 # Table of Contents
 
-[871](http://mvigoda.github.io/datasets/Discharges/DRG_number_871_1_Chart.html)  
-
+removed the 871 link
 
 
 
