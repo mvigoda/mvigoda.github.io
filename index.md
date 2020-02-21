@@ -18,6 +18,9 @@
 
 ## Top DRGs
 
+[new attempt](http://michaelvigoda.com/datasets/Discharges/Top_Discharges_2017.md)  
+
+
 
 [Top DRG in 2017 - Discharges](http://mvigoda.github.io/datasets/Discharges/Top_DRGs_charts.html)  
 
