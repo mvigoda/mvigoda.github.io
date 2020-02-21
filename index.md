@@ -9,9 +9,9 @@
 [google](http://google.com) 
 
 
-[one](http://mvigoda.github.io/datasets/Pics/Temp_Folder/one.md)
+[one](http://mvigoda.github.io/datasets/2017/Temp_Folder/one.md)
 
-[one HTML](http://mvigoda.github.io/datasets/Pics/Temp_Folder/one.html)
+[one HTML](http://mvigoda.github.io/datasets/2017/Temp_Folder/one.html)
 
 
 
