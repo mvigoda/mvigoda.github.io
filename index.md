@@ -37,7 +37,7 @@ Edit the `index.md` file to change this content. All pages on the blog, includin
 
 [Sample Markdown Page](http://mvigoda.github.io/Miscellaneous/In_Misc_sample.md) 
 
-[Sample page copy](http://mvigoda.github.io/Miscellaneous/sample_page_copy.md)
+[Sample page copy](http://mvigoda.github.io/_posts/sample_page_copy.md)
 
 
 
