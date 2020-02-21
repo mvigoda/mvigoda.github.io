@@ -1,7 +1,5 @@
 # Top DRGs for 2017 - Discharges
 
-February 21, 2020 12:01 PM 
-
 
 <br>
 <div style="text-align: center;"> <IMG class="plain" SRC="Top_Discharges_2017.svg"  style="background:none; border:none; box-shadow:none;"  width="900" height="800" ALT="image">
@@ -20,6 +18,14 @@ February 21, 2020 12:01 PM
 <div style="text-align: center;"> <IMG class="plain" SRC="Sepsis_cumulative.svg"  style="background:none; border:none; box-shadow:none;"  width="900" height="800" ALT="image">
 <em></em></div>
 <br>
+
+
+
+<br>
+<div style="text-align: center;"> <IMG class="plain" SRC="Sepsis_2017_all_3_DRGs.svg"  style="background:none; border:none; box-shadow:none;"  width="900" height="800" ALT="image">
+<em></em></div>
+<br>
+
 
 
 
