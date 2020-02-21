@@ -11,6 +11,9 @@
 
 [Year 2017](http://mvigoda.github.io/datasets/Year_2017/one_in_Year_2017.md)
 
+[Year 2017 HTML](http://mvigoda.github.io/datasets/Year_2017/one_in_Year_2017.html)
+
+
 
 [one](http://mvigoda.github.io/datasets/2017/Temp_Folder/one.md)
 
