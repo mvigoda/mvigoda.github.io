@@ -26,14 +26,8 @@
 
 
 
- 
-
 And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
 
-1.  [871](http://mvigoda.github.io/datasets/Discharges/DRG_number_871_1_Chart.html)  
-2.  [470](http://mvigoda.github.io/datasets/Discharges/DRG_number_470_2_Chart.html)  
-3.  [291](http://mvigoda.github.io/datasets/Discharges/DRG_number_291_3_Chart.html)  
-4.  [190](http://mvigoda.github.io/datasets/Discharges/DRG_number_190_4_Chart.html)
 
 
 Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
