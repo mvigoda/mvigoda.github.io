@@ -4,6 +4,9 @@ removed the 871 link
 
 
 
+
+[10 378 chart](http://mvigoda.github.io/datasets/Discharges/10_378_Chart.html)
+
 Here's the table of contents:
 
 1. TOC
