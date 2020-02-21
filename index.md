@@ -42,5 +42,7 @@ Edit the `index.md` file to change this content. All pages on the blog, includin
 
 [Sample HTML Page](http://mvigoda.github.io/Miscellaneous/Sample_HTML_Page.html)  
 
+[Sample Markdown Page](http://mvigoda.github.io/Miscellaneous/In_Misc_sample.md) 
 
+ 
 
