@@ -1,15 +1,14 @@
 1. TOC
 {:toc}
 
-[in misc sample](http://mvigoda.github.io//Miscellaneous/In_Misc_sample.md) 
+[in misc sample](http://mvigoda.github.io//Miscellaneous/In_Misc_sample.html) 
 
-[in misc sample](http://michaelvigoda.com//Miscellaneous/In_Misc_sample.md) 
+[in misc sample](http://michaelvigoda.com//Miscellaneous/In_Misc_sample.html) 
 
 
 [google](http://google.com) 
 
 
-[Year 2017](http://mvigoda.github.io/datasets/Year_2017/one_in_Year_2017.md)
 
 [Year 2017 HTML](http://mvigoda.github.io/datasets/Year_2017/one_in_Year_2017.html)
 
