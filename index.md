@@ -25,7 +25,6 @@
 [Top DRGs for 2017 - Based on Discharges](http://mvigoda.github.io/Top_Discharges_2017.md)
 
 
-
 And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
 
 
