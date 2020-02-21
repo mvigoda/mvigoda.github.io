@@ -22,7 +22,7 @@
 [Top DRG in 2017 - Discharges](http://mvigoda.github.io/datasets/Discharges/Top_DRGs_charts.html)  
 
  
-[Top DRGs for 2017 - Based on Discharges](Top_Discharges_2017.md)
+[Top DRGs for 2017 - Based on Discharges](http://mvigoda.github.io/Top_Discharges_2017.md)
 
 
 
