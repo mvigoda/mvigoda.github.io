@@ -19,14 +19,12 @@
 ## Top DRGs
 
 
-[Discharges](http://mvigoda.github.io/datasets/Discharges/Top_DRGs_charts.html)  
-
+[Top DRG in 2017 - Discharges](http://mvigoda.github.io/datasets/Discharges/Top_DRGs_charts.html)  
 
  
 [Top DRGs for 2017 - Based on Discharges](Top_Discharges_2017.md)
 
 
-[Sample HTML Page](http://mvigoda.github.io/Sample_HTML_Page.html)  
 
  
 
@@ -39,4 +37,10 @@ And you can include links, like this [link to fast.ai](https://www.fast.ai). Pos
 
 
 Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+
+
+
+[Sample HTML Page](http://mvigoda.github.io/Miscellaneous/Sample_HTML_Page.html)  
+
+
 
