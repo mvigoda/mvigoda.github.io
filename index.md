@@ -1,7 +1,7 @@
 1. TOC
 {:toc}
 
-
+[in misc sample](http://mvigoda.github.io//Miscellaneous/In_Misc_sample.md) 
 
 
 # Publicly Available CMS Data
