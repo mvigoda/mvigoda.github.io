@@ -3,6 +3,12 @@
 
 [in misc sample](http://mvigoda.github.io//Miscellaneous/In_Misc_sample.md) 
 
+[in misc sample](http://michaelvigoda.com//Miscellaneous/In_Misc_sample.md) 
+
+
+
+
+
 
 # Publicly Available CMS Data
 
@@ -33,7 +39,6 @@ And you can include links, like this [link to fast.ai](https://www.fast.ai). Pos
 
 
 Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
-
 
 
 [Sample HTML Page](http://mvigoda.github.io/Miscellaneous/Sample_HTML_Page.html)  
