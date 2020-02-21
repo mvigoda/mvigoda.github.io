@@ -19,7 +19,7 @@
 ## Top DRGs
 
 
-[Discharges](http://mvigoda.github.io/datasets/Discharges/holding.md)  
+[Discharges](http://mvigoda.github.io/datasets/Discharges/Top_DRGs_charts.html)  
 
 
  
