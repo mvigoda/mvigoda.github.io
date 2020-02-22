@@ -41,7 +41,7 @@
 <br>
 <div style="text-align: center;">
       <a href=“http://google.com” title=“Redirect”>
-          <IMG SRC="/mvigoda.github.io/datasets/Year_2011/Discharges_2011.svg"  width="600" height="600" ALT="image">
+          <IMG SRC="/datasets/Year_2011/Discharges_2011.svg"  width="600" height="600" ALT="image">
 <em>image_caption</em></div>
 <br>
 
