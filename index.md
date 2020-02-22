@@ -32,12 +32,21 @@
 
 
 
+<a href="http://www.yahoo.com" target="_blank">
+      <IMG SRC="/datasets/Year_2011/Discharges_2011.svg"  width="600" height="600" ALT="image"/>
+
+</a>
+
+
+
+
 <br>
 <div style="text-align: center;">
-      <a href=“http://google.com”>
+      <a href=“http://yahoo.com”>
           <IMG SRC="/datasets/Year_2011/Discharges_2011.svg"  width="600" height="600" ALT="image"/>
       </a>
-<em>image_caption</em></div>
+<em>image_caption</em>
+</div>
 <br>
 
 
