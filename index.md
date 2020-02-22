@@ -25,38 +25,23 @@
 [2011 Compilation](http://mvigoda.github.io/datasets/Year_2011/one_in_Year_2011.html)
 
 
-<a href="http://www.quora.com" target="_blank">
-      <IMG SRC="/datasets/Year_2011/Discharges_2011.svg"  width="600" height="600" ALT="image"/>
-
-</a>
 
 
 
 <a href="https://data.cms.gov/Medicare-Inpatient/Inpatient-Prospective-Payment-System-IPPS-Provider/tcsp-6e99" target="_blank">
-      <IMG SRC="/datasets/Year_2011/Discharges_2011.svg"  width="600" height="600" ALT="image"/>
+      <IMG SRC="/images/CMS 2011.png"  width="200" height="200" ALT="image"/>
 
 </a>
 
 
 
 
-<br>
-<div style="text-align: center;">
-      <a href=“http://yahoo.com”>
-          <IMG SRC="/datasets/Year_2011/Discharges_2011.svg"  width="600" height="600" ALT="image"/>
-      </a>
-<em>image_caption</em>
-</div>
-<br>
+<a href="https://data.cms.gov/Medicare-Inpatient/Inpatient-Prospective-Payment-System-IPPS-Provider/tcsp-6e99" target="_blank">
+      <IMG SRC="/images/CMS 2011.png"  width="300" height="300" ALT="image"/>
+
+</a>
 
 
-<br>
-<div style="text-align: center;">
-      <a href=“http://google.com”>
-          <IMG SRC="/datasets/Year_2011/Discharges_2011.svg"  width="600" height="600" ALT="image">
-      </a>
-<em>image_caption</em></div>
-<br>
 
 
 
