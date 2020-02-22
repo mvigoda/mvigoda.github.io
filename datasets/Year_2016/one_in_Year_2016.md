@@ -6,13 +6,11 @@
 
 
 
-[Top DRG in 2017 - Discharges](http://mvigoda.github.io/datasets/Discharges/Top_Discharges_2017.html)  
 
 
 
-[Top DRG in 2016 - Discharges](http://mvigoda.github.io/datasets/Discharges/Top_Discharges_2016.md)  
-
-[Top DRG in 201 - Discharges](http://mvigoda.github.io/datasets/Discharges/Top_Discharges_2016.html)  
+[Top DRG in 2016 - Discharges](http://mvigoda.github.io/datasets/Discharges/Top_Discharges_2016.html)  
 
 
 
+[Top DRG in 2016 - Discharges](http://michaelvigoda.com/datasets/Discharges/Top_Discharges_2016.html)
