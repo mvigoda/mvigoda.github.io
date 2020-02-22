@@ -34,19 +34,6 @@
 
 
 
-
-
-|2011            |  2012 |
-:-------------------------:|:-------------------------:
-<a href="https://data.cms.gov/Medicare-Inpatient/Inpatient-Prospective-Payment-System-IPPS-Provider/tcsp-6e99" target="_blank">
-      <IMG SRC="/images/CMS Data-dot-gov logo.png"  width="200" height="150" ALT="image"/></a> | <a href="https://data.cms.gov/Medicare-Inpatient/Inpatient-Prospective-Payment-System-IPPS-Provider/tcsp-6e99" target="_blank">
-      <IMG SRC="/images/CMS Data-dot-gov logo.png"  width="200" height="150" ALT="image"/></a>|
-|abcd | efgh|
-
-
-
-
-
 <a href="https://data.cms.gov/Medicare-Inpatient/Inpatient-Prospective-Payment-System-IPPS-Provider/tcsp-6e99" target="_blank">
       <IMG SRC="/images/CMS Data-dot-gov logo.png"  width="100" height="100" ALT="image"/>
 </a>
@@ -59,6 +46,12 @@
 <a href="https://getvectorlogo.com/cms-centers-for-medicare-medicaid-services-vector-logo-svg/" target="_blank"><img src="https://getvectorlogo.com/wp-content/uploads/2018/10/cms-centers-for-medicare-medicaid-services-vector-logo.png"  width="150" height="150" /></a>
 
  
+
+ 
+<a href="https://getvectorlogo.com/cms-centers-for-medicare-medicaid-services-vector-logo-svg/" target="_blank"><img src="https://getvectorlogo.com/wp-content/uploads/2018/10/cms-centers-for-medicare-medicaid-services-vector-logo.png"  width="200" height="150" /></a>
+
+ 
+
 
 
 # Publicly Available CMS Data
