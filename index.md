@@ -26,19 +26,13 @@
 
 
 
-<p>
-  <a href=“http://commonmark.org” title=“Redirect to homepage”>
-    <img src=“http://commonmark.org/help/images/favicon.png” alt=“homepage” />
-  </a>
-</p>
-
 
 
 
 <br>
 <div style="text-align: center;">
       <a href=“http://google.com”>
-          <IMG SRC="/datasets/Year_2011/Discharges_2011.svg"  width="600" height="600" ALT="image">
+          <IMG SRC="/datasets/Year_2011/Discharges_2011.svg"  width="600" height="600" ALT="image"/>
       </a>
 <em>image_caption</em></div>
 <br>
