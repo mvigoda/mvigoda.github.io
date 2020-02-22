@@ -25,7 +25,10 @@
 [2011 Compilation](http://mvigoda.github.io/datasets/Year_2011/one_in_Year_2011.html)
 
 
+<a href="http://www.quora.com" target="_blank">
+      <IMG SRC="/datasets/Year_2011/Discharges_2011.svg"  width="600" height="600" ALT="image"/>
 
+</a>
 
 
 
@@ -38,13 +41,13 @@
 <br>
 
 
-
 <br>
 <div style="text-align: center;">
-    <IMG SRC="/datasets/Year_2011/Discharges_2011.svg"  width="600" height="600" ALT="image">
+      <a href=“http://google.com”>
+          <IMG SRC="/datasets/Year_2011/Discharges_2011.svg"  width="600" height="600" ALT="image">
+      </a>
 <em>image_caption</em></div>
 <br>
-
 
 
 
