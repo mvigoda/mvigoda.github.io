@@ -26,12 +26,14 @@
 
 
 
+<p>
+  <a href=“http://commonmark.org” title=“Redirect to homepage”>
+    <img src=“http://commonmark.org/help/images/favicon.png” alt=“homepage” />
+  </a>
+</p>
 
 
 
-[one](http://mvigoda.github.io/datasets/2017/Temp_Folder/one.md)
-
-[one HTML](http://mvigoda.github.io/datasets/2017/Temp_Folder/one.html)
 
 
 
