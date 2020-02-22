@@ -5,16 +5,7 @@
 
 
 
-
-
-
 [Top DRG in 2016 - Discharges](http://mvigoda.github.io/datasets/Year_2016/Top_Discharges_2016.html)  
-
-
-
-[Top DRG in 2016 - Discharges](http://michaelvigoda.com/datasets/Year_2016/Top_Discharges_2016.html)
-
-
 
 
 

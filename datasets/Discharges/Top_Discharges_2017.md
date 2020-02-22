@@ -6,13 +6,13 @@
 <em></em></div>
 
 
- 
+
 
 <div style="text-align: center;"> <IMG class="plain" SRC="Top_Payments_2017.svg"  style="background:none; border:none; box-shadow:none;"  width="900" height="800" ALT="image">
 <em></em></div>
 <br>
 
-   
+
 
 <br>
 <div style="text-align: center;"> <IMG class="plain" SRC="Sepsis_cumulative.svg"  style="background:none; border:none; box-shadow:none;"  width="900" height="800" ALT="image">
@@ -29,7 +29,7 @@
 
 
 
- 
+
 
 1.  [871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC](http://mvigoda.github.io/datasets/Discharges/Discharges_for_2017/1_871_Chart.html)  
 2.  [470 - MAJOR JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY W/O MCC](http://mvigoda.github.io/datasets/Discharges/Discharges_for_2017/2_470_Chart.html)  
@@ -53,13 +53,13 @@
 20.  [641 - MISC DISORDERS OF NUTRITION,METABOLISM,FLUIDS/ELECTROLYTES W/O MCC](http://mvigoda.github.io/datasets/Discharges/Discharges_for_2017/20_641_Chart.html)  
 
 
- 
- 
- 
+
+
+
 [2011](http://mvigoda.github.io/datasets/Discharges/Discharges_labels_2011.svg)  
 
 [2011 no labels](http://mvigoda.github.io/datasets/Discharges/Discharges_2011.svg)  
 
 
 
- 
+
