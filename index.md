@@ -35,13 +35,11 @@
 
 
 
-
-
-
 <br>
 <div style="text-align: center;">
-      <a href=“http://google.com” title=“Redirect”>
+      <a href=“http://google.com”>
           <IMG SRC="/datasets/Year_2011/Discharges_2011.svg"  width="600" height="600" ALT="image">
+      </a>
 <em>image_caption</em></div>
 <br>
 
