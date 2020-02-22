@@ -24,9 +24,6 @@
 
 
 
-
-
-
 # Publicly Available CMS Data
 
 * [2011](https://data.cms.gov/Medicare-Inpatient/Inpatient-Prospective-Payment-System-IPPS-Provider/97k6-zzx3)  
@@ -36,6 +33,10 @@
 * [2015](https://data.cms.gov/Medicare-Inpatient/Inpatient-Prospective-Payment-System-IPPS-Provider/w2du-it53)    
 * [2016](https://data.cms.gov/Medicare-Inpatient/Inpatient-Prospective-Payment-System-IPPS-Provider/fm2n-hjj6)  
 * [2017](https://data.cms.gov/Medicare-Inpatient/Inpatient-Prospective-Payment-System-IPPS-Provider/tcsp-6e99)  
+
+## Sepsis  
+
+[Sepsis Overview](http://mvigoda.github.io/datasets/Sepsis/Sepsis_Overview.html)  
 
 
 
@@ -70,37 +71,7 @@ Edit the `index.md` file to change this content. All pages on the blog, includin
 
 [CMS Logos](http://mvigoda.github.io/datasets/CMS_Logos/CMS_Logos_Links.html)
 
-[CMSdfdfdfdfdfdfdfdfdfd Logos](https://mvigoda.github.io/datasets/CMS_Logos/CMS_Logos_Links.html)
-
-
-[Top DRG in 2011 - Discharges](http://mvigoda.github.io/datasets/Year_2011/Top_Discharges_2011.html)  
 
 
 
-
-# delete 
-
-
-
-<a href="https://data.cms.gov/Medicare-Inpatient/Inpatient-Prospective-Payment-System-IPPS-Provider/tcsp-6e99" target="_blank">
-      <IMG SRC="/images/CMS Data-dot-gov logo.png"  width="200" height="200" ALT="image"/>
-</a>
-
-<a href="https://data.cms.gov/Medicare-Inpatient/Inpatient-Prospective-Payment-System-IPPS-Provider/tcsp-6e99" target="_blank">
-      <IMG SRC="/images/CMS Data-dot-gov logo.png"  width="300" height="200" ALT="image"/> <em> 300 x 200</em>
-</a>
-
-
-
-<a href="https://getvectorlogo.com/cms-centers-for-medicare-medicaid-services-vector-logo-svg/" target="_blank"><img src="https://getvectorlogo.com/wp-content/uploads/2018/10/cms-centers-for-medicare-medicaid-services-vector-logo.png"  width="200" height="150" /></a> <em> 200 x 150 </em>
-
- 
-<a href="https://getvectorlogo.com/cms-centers-for-medicare-medicaid-services-vector-logo-svg/" target="_blank"><img src="https://getvectorlogo.com/wp-content/uploads/2018/10/cms-centers-for-medicare-medicaid-services-vector-logo.png"  width="150" height="150" /></a> <em> 150 x 150 </em>
-
- 
-
- 
-<a href="https://getvectorlogo.com/cms-centers-for-medicare-medicaid-services-vector-logo-svg/" target="_blank"><img src="https://getvectorlogo.com/wp-content/uploads/2018/10/cms-centers-for-medicare-medicaid-services-vector-logo.png"  width="200" height="150" /></a>
-
- 
 
