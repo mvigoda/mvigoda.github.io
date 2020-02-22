@@ -43,12 +43,8 @@
 2011            |  2012
 :-------------------------:|:-------------------------:
 <a href="https://data.cms.gov/Medicare-Inpatient/Inpatient-Prospective-Payment-System-IPPS-Provider/tcsp-6e99" target="_blank">
-      <IMG SRC="/images/CMS Data-dot-gov logo.png"  width="200" height="150" ALT="image"/>
-
-</a> | <a href="https://data.cms.gov/Medicare-Inpatient/Inpatient-Prospective-Payment-System-IPPS-Provider/tcsp-6e99" target="_blank">
-      <IMG SRC="/images/CMS Data-dot-gov logo.png"  width="200" height="150" ALT="image"/>
-
-</a>|
+      <IMG SRC="/images/CMS Data-dot-gov logo.png"  width="200" height="150" ALT="image"/></a> | <a href="https://data.cms.gov/Medicare-Inpatient/Inpatient-Prospective-Payment-System-IPPS-Provider/tcsp-6e99" target="_blank">
+      <IMG SRC="/images/CMS Data-dot-gov logo.png"  width="200" height="150" ALT="image"/></a>|
 
 
 
