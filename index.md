@@ -10,15 +10,15 @@
 
 
 
-[Year 2017 HTML](http://mvigoda.github.io/datasets/Year_2017/one_in_Year_2017.html)
+[2017 Compilation](http://mvigoda.github.io/datasets/Year_2017/one_in_Year_2017.html)
 
-[Year 2016 HTML](http://mvigoda.github.io/datasets/Year_2016/one_in_Year_2016.html)
+[2016 Compilation](http://mvigoda.github.io/datasets/Year_2016/one_in_Year_2016.html)
 
-[Year 2015 HTML](http://mvigoda.github.io/datasets/Year_2015/one_in_Year_2015.html)
+[2015 Compilation](http://mvigoda.github.io/datasets/Year_2015/one_in_Year_2015.html)
 
-[Year 2014 HTML](http://mvigoda.github.io/datasets/Year_2014/one_in_Year_2014.html)
+[2014 Compilation](http://mvigoda.github.io/datasets/Year_2014/one_in_Year_2014.html)
 
-[Year 2013 HTML](http://mvigoda.github.io/datasets/Year_2013/one_in_Year_2013.html)
+[2013 Compilation](http://mvigoda.github.io/datasets/Year_2013/one_in_Year_2013.html)
 
 
 
