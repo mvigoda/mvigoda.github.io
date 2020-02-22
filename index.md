@@ -68,7 +68,7 @@ Edit the `index.md` file to change this content. All pages on the blog, includin
 
 
 
-[CMS Logos](http://mvigoda.github.io/datasets/CMS Logos/CMS_Logos_Links.html)
+[CMS Logos](http://mvigoda.github.io/datasets/CMS_Logos/CMS_Logos_Links.html)
 
 
 
