@@ -37,6 +37,29 @@
 
 
 
+
+<br>
+<div style="text-align: center;">
+      <a href=“http://google.com” title=“Redirect”>
+          <IMG SRC="/mvigoda.github.io/datasets/Year_2011/Discharges_2011.svg"  width="600" height="600" ALT="image">
+<em>image_caption</em></div>
+<br>
+
+
+
+<br>
+<div style="text-align: center;">
+    <IMG SRC="/mvigoda.github.io/datasets/Year_2011/Discharges_2011.svg"  width="600" height="600" ALT="image">
+<em>image_caption</em></div>
+<br>
+
+
+
+
+
+ 
+
+
 # Publicly Available CMS Data
 
 * [2011](https://data.cms.gov/Medicare-Inpatient/Inpatient-Prospective-Payment-System-IPPS-Provider/97k6-zzx3)  
