@@ -16,21 +16,6 @@
 
 
 
-| 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 
-| :-------: | :-------: |:-------: | :-------: | :-------: |:-------: |:-------: |
-| [2011 Overview](http://mvigoda.github.io/datasets/Year_2011/one_in_Year_2011.html) | [2012 Overview](http://mvigoda.github.io/datasets/Year_2012/one_in_Year_2012.html)  |   [2013 Overview](http://mvigoda.github.io/datasets/Year_2013/one_in_Year_2013.html)  |   [2014 Overview](http://mvigoda.github.io/datasets/Year_2014/one_in_Year_2014.html)  |   [2015 Overview](http://mvigoda.github.io/datasets/Year_2015/one_in_Year_2015.html)  |   [2016 Overview](http://mvigoda.github.io/datasets/Year_2016/one_in_Year_2016.html)  |   [2017 Overview](http://mvigoda.github.io/datasets/Year_2017/one_in_Year_2017.html)  |  
-
-
-[2011 Overview](http://mvigoda.github.io/datasets/Year_2011/one_in_Year_2011.html)  
-[2012 Overview](http://mvigoda.github.io/datasets/Year_2012/one_in_Year_2012.html)  
-[2013 Overview](http://mvigoda.github.io/datasets/Year_2013/one_in_Year_2013.html)  
-[2014 Overview](http://mvigoda.github.io/datasets/Year_2014/one_in_Year_2014.html)  
-[2015 Overview](http://mvigoda.github.io/datasets/Year_2015/one_in_Year_2015.html)  
-[2016 Overview](http://mvigoda.github.io/datasets/Year_2016/one_in_Year_2016.html)  
-[2017 Overview](http://mvigoda.github.io/datasets/Year_2017/one_in_Year_2017.html)  
-
-
-
 
 
 
@@ -54,7 +39,6 @@
 
 ## Top DRGs
 
-[new attempt](http://michaelvigoda.com/datasets/Discharges/Top_Discharges_2017.md)  
 
 
 
@@ -82,6 +66,17 @@ Edit the `index.md` file to change this content. All pages on the blog, includin
 
 
 [CMS Logos](http://mvigoda.github.io/datasets/CMS_Logos/CMS_Logos_Links.html)
+
+
+
+[2011 Overview](http://mvigoda.github.io/datasets/Year_2011/one_in_Year_2011.html)  
+[2012 Overview](http://mvigoda.github.io/datasets/Year_2012/one_in_Year_2012.html)  
+[2013 Overview](http://mvigoda.github.io/datasets/Year_2013/one_in_Year_2013.html)  
+[2014 Overview](http://mvigoda.github.io/datasets/Year_2014/one_in_Year_2014.html)  
+[2015 Overview](http://mvigoda.github.io/datasets/Year_2015/one_in_Year_2015.html)  
+[2016 Overview](http://mvigoda.github.io/datasets/Year_2016/one_in_Year_2016.html)  
+[2017 Overview](http://mvigoda.github.io/datasets/Year_2017/one_in_Year_2017.html)  
+
 
 
 
