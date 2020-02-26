@@ -14,10 +14,9 @@
 
 
 1.  871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC    
-[Drop Down Chart](http://mvigoda.github.io/datasets/Year_2016/2016_Charts/2016_1_871_Chart.html)  &nbsp; &nbsp; &nbsp; &nbsp;   [Radio Button Chart](http://mvigoda.github.io/datasets/Year_2016/2016_Charts/2016_1_871_radio_button_Chart.html)  
+[Drop Down](http://mvigoda.github.io/datasets/Year_2016/2016_Charts/2016_1_871_Chart.html)  &nbsp; &nbsp; &nbsp; &nbsp;   [Radio Button](http://mvigoda.github.io/datasets/Year_2016/2016_Charts/2016_1_871_radio_button_Chart.html)  
 
 
-1.  [871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC](http://mvigoda.github.io/datasets/Year_2016/2016_Charts/2016_1_871_Chart.html)  
 2.  [470 - MAJOR JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY W/O MCC](http://mvigoda.github.io/datasets/Year_2016/2016_Charts/2016_2_470_Chart.html)  
 3.  [291 - HEART FAILURE & SHOCK W MCC](http://mvigoda.github.io/datasets/Year_2016/2016_Charts/2016_3_291_Chart.html)  
 4.  [292 - HEART FAILURE & SHOCK W CC](http://mvigoda.github.io/datasets/Year_2016/2016_Charts/2016_4_292_Chart.html)  
