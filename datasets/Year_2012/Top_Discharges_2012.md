@@ -1,9 +1,7 @@
 # Top DRGs for 2012 - Discharges
 
-Top_Discharges_2012.md
 <br>
-<div style="text-align: center;"> <IMG class="plain" SRC="Discharges_labels_2012.svg"  style="background:none; border:none; box-shadow:none;"  width="900" height="800" ALT="image">
-<em></em></div>
+<div style="text-align: center;"> <IMG class="plain" SRC="Discharges_labels_2012.svg"  style="background:none; border:none; box-shadow:none;"  width="900" height="800" ALT="image"></div>
 
 
  
@@ -81,18 +79,6 @@ Top_Discharges_2012.md
 
 
 
-
-
- 
- 
- 
-[2011](http://mvigoda.github.io/datasets/Discharges/Discharges_labels_2011.svg)  
-
-[2011 no labels](http://mvigoda.github.io/datasets/Discharges/Discharges_2011.svg)  
-
-
-
- 
 
 
 
