@@ -45,22 +45,11 @@
 [Top DRG in 2017 - Discharges](http://mvigoda.github.io/datasets/Discharges/Top_DRGs_charts.html)  
 
  
-[Top DRGs for 2017 - Based on Discharges](http://mvigoda.github.io/Top_Discharges_2017.md)
 
 
-[CMS](https://www.cms.gov). 
-Posts will appear after this file. 
+[CMS](https://www.cms.gov)   
 
 
-
-Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
-
-
-[Sample HTML Page](http://mvigoda.github.io/Summaries/Sample_HTML_Page.html)  
-
-[Sample Markdown Page](http://mvigoda.github.io/Summaries/In_Misc_sample.md) 
-
-[Sample page copy](http://mvigoda.github.io/_posts/sample_page_copy.md)
 
 
 
@@ -80,5 +69,12 @@ Edit the `index.md` file to change this content. All pages on the blog, includin
 
 
 
+
+Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+
+
+
+
+Posts will appear after this file. 
 
 
