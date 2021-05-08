@@ -6,7 +6,12 @@
 
 # CMS  
 
-# Coding examples
+# Coding examples  
+https://michaelvigoda.com/2021/05/07/References-for-Machine-Learning.html
+
+
+
+[References for Machine Learning](https://michaelvigoda.com/2021/05/07/References-for-Machine-Learning.html)
 
 
 Posts will appear after this file. 
