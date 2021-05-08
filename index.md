@@ -19,7 +19,7 @@
 
 
 
-# Publicly Available CMS Data
+# CMS Data (Publicly Available)
 
 
 * [2011](https://data.cms.gov/Medicare-Inpatient/Inpatient-Prospective-Payment-System-IPPS-Provider/97k6-zzx3)  
