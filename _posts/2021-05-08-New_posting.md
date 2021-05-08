@@ -1,4 +1,9 @@
-# New posting from May 8, 2021 
+# References for machine learning 
 
 
-Want to put Groupby example link here
+
+References for machine learning :
+
+
+
+[The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
