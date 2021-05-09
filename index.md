@@ -6,18 +6,5 @@
 
 
 
-{% include alert.html text="You can include alert boxes" %}
-
-...and...
-
-{% include info.html text="You can include info boxes" %}
-
-
-
-
-<figure class="video_container">
-  <iframe width="700" height="394"  src="https://www.youtube.com/embed/aircAruvnKk" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
 
 
