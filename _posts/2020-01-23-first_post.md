@@ -1,5 +1,0 @@
-# Beginning   
-
-First post
-
-
