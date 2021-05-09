@@ -4,6 +4,19 @@
 Last update : May 8, 2021   
 [Markdown Guide](https://about.gitlab.com/handbook/markdown-guide/)
 
+
+
+
+{% include alert.html text="You can include alert boxes" %}
+
+...and...
+
+{% include info.html text="You can include info boxes" %}
+
+
+
+
+
 Here's the table of contents:
 
 1. TOC
