@@ -6,15 +6,9 @@ Here's the table of contents:
 1. TOC
 {:toc}
 
-## Basic setup
-
-
-
-
 
 
 ![](/images/2017 Top DRGs - Discharges.svg "Top Discharges 2017")     
-
 
 ![](/images/2017 Top DRGs - Payments.svg "Top Payments 2017")     
 
