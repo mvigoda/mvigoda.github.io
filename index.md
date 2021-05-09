@@ -11,3 +11,13 @@
 ...and...
 
 {% include info.html text="You can include info boxes" %}
+
+
+
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/aircAruvnKk" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+
+
