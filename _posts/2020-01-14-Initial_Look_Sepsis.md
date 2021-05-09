@@ -26,7 +26,7 @@ The first line of the file should start with a single hash character, then a spa
 
 **Basic formatting**
 
-Here's a footnote [^1]. Here's a horizontal rule  
+Here's a footnote [^1]. Here it is in Basic Formatting. 
 
 
 
@@ -86,7 +86,11 @@ The first line of the file should start with a single hash character, then a spa
 
 ## Basic formatting
 
-You can use *italics*, **bold**, `code font text`, and create [links](https://www.markdownguide.org/cheat-sheet/). Here's a footnote [^1]. Here's a horizontal rule:
+You can use *italics*, **bold**, `code font text`, and create [links](https://www.markdownguide.org/cheat-sheet/). 
+
+Here's a footnote [^1]. Second instance of footnote #1.
+
+Here's a footnote [^2]. Here's a horizontal rule:
 
 ---
 
