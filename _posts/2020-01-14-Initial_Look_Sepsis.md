@@ -202,3 +202,5 @@ print(1+1)
 
 [^1]: This is first footnote.
 
+[^2]: This is second footnote.
+
