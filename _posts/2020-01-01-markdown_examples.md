@@ -11,7 +11,15 @@ Here's the table of contents:
 1. TOC
 {:toc}
 
+
 ## Basic setup
+
+
+
+
+Here's a footnote [^1]. Here it is in Basic Formatting. 
+
+
 
 Jekyll requires blog post files to be named according to the following format:
 
@@ -74,42 +82,6 @@ And a numbered list:
 
 
 
-
-<br>
-<div style="text-align: center;"><IMG SRC="images/872 - SEPTICEMIA OR SEVERE SEPSIS without MV 96+ HOURS without MCC 2011-2015 Top 10.svg"  width="600" height="600" ALT="image">
-<em>image_caption</em></div>
-<br>
-
-
-
-
-
-
-
-
-
-## Here. 
-
-
-
-
-
-<br>
-<div style="text-align: center;"><IMG SRC="images/872 - SEPTICEMIA OR SEVERE SEPSIS without MV 96+ HOURS without MCC 2011-2015 Top 10.svg"  width="600" height="600" ALT="image">
-</div>
-
-
-
-
-
- 
-
-
-
-
-
-
-
  
 
 
@@ -144,20 +116,6 @@ print(1+1)
 
 
 
-Basic setup
-
-Jekyll requires blog post files to be named according to the following format:
-
-YEAR-MONTH-DAY-filename.md
-
-Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and filename is whatever file name you choose, to remind yourself what this post is about. .md is the file extension for markdown files.
-
-The first line of the file should start with a single hash character, then a space, then your title. This is how you create a "level 1 heading" in markdown. Then you can create level 2, 3, etc headings as you wish but repeating the hash character, such as you see in the line ## File names above.
-
-**Basic formatting**
-
-Here's a footnote [^1]. Here it is in Basic Formatting. 
-
 
 
 
@@ -172,10 +130,7 @@ Here's a footnote [^1]. Here it is in Basic Formatting.
 
 
 
-Here's the table of contents:
 
-1. TOC
-{:toc}
 
 ## Latex  
 ### Examples of Latex  
@@ -288,18 +243,11 @@ print(1+1)
 ## Footnotes
 
 [^1]: This is the footnote.
-
-
-
-
-
+[^2]: Second footnote.
 
 
 [Blogging Advice] https://www.fast.ai/2019/05/13/blogging-advice
 
 [link text itself]: http://www.reddit.com  
-
-
-
 
 [Follow up Post] https://www.fast.ai/2020/01/16/fast_template/
