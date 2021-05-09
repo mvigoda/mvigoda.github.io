@@ -2,7 +2,7 @@
 
 
 Last update : May 8, 2021   
-
+[Markdown Guide](https://about.gitlab.com/handbook/markdown-guide/)
 
 Here's the table of contents:
 
