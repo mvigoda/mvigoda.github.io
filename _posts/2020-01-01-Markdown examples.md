@@ -121,6 +121,29 @@ print(1+1)
 
 
 
+<span title="I am hovering over the text">This is the text I want to have a mousover</span>
+
+
+## GitLab Orange Alert Panel
+
+
+<div class="panel panel-gitlab-orange">
+**Heading**
+{: .panel-heading}
+<div class="panel-body">
+
+Text in markdown.
+
+</div>
+</div>
+
+## GitLab Orange Alert Box
+
+My text in an orange box.
+{: .alert .alert-gitlab-orange}
+
+
+
 
 ## Footnotes
 
