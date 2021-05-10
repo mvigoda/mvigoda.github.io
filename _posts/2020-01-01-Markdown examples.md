@@ -124,7 +124,7 @@ print(1+1)
 <span title="I am hovering over the text">This is the text I want to have a mousover</span>
 
 
-<span title="New York Times newspaper">http://nytimes.com</span>
+<span title="New York Times newspaper">(http://nytimes.com)</span>
 
 
 ## GitLab Orange Alert Panel
