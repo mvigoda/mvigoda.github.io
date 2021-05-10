@@ -102,48 +102,10 @@ print(1+1)
 
 
 
-
-[Text to display][identifier] will display a link.
-
-[Another text][another-identifier] will do the same. Hover the mouse over it to see the title.
-
-[This link] will do the same as well. It works as the identifier itself.
-
-[This link][] (same as above), has a second pair of empty brackets to indicate that the following parenthesis does not contain a link.
-
-<http://nytimes.com> works too. Must be used for explicit links.
-
-<!-- Identifiers, in alphabetical order -->
-
-[NY Times]: http://nytimes.com "The New York Times"
-[CNN]: http://cnn.com
-[NYT]: http://nytimes.com
+***
 
 
-
-<span title="I am hovering over the text">This is the text I want to have a mousover</span>
-
-
-<span title="New York Times newspaper">(http://nytimes.com)</span>
-
-
-## GitLab Orange Alert Panel
-
-
-<div class="panel panel-gitlab-orange">
-**Heading**
-{: .panel-heading}
-<div class="panel-body">
-
-Text in markdown.
-
-</div>
-</div>
-
-## GitLab Orange Alert Box
-
-My text in an orange box.
-{: .alert .alert-gitlab-orange}
+---
 
 
 
@@ -154,6 +116,7 @@ My text in an orange box.
 [^2]: Second footnote.
 
 
+___
 
 
 [Blogging Advice] https://www.fast.ai/2019/05/13/blogging-advice
