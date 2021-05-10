@@ -14,15 +14,7 @@ Here's the table of contents:
 
 ## Basic setup
 
-
-
-
-
-
-
 Here's a footnote [^1]. Here it is in Basic Formatting. 
-
-
 
 Jekyll requires blog post files to be named according to the following format:
 
@@ -54,6 +46,16 @@ And a numbered list:
 1. item 1
 1. item 2
 
+
+## Tables
+
+| Column 1 | Column 2 |
+|-|-|
+| A thing | Another thing |
+
+
+
+
 ## Boxes and stuff
 
 > This is a quotation
@@ -67,31 +69,14 @@ And a numbered list:
 {% include info.html text="You can include info boxes" %}
 
  
+## Horizontal lines
+A sequence of three or more dashes will produce a horizontal line, but let's use always 4 as standard. Leave blank lines after and before it:
 
-
-
-## Tables
-
-| Column 1 | Column 2 |
-|-|-|
-| A thing | Another thing |
-
-
-
-
-
-
-## Boxes and stuff
-
-> This is a quotation
-
-{% include alert.html text="You can include alert boxes" %}
-
-...and...
-
-{% include info.html text="You can include info boxes" %}
-
-
+Text
+<!-- blank line -->
+----
+<!-- blank line -->
+Text
 
 
 
@@ -114,6 +99,27 @@ print(1+1)
 ```
 
     2
+
+
+
+
+[Text to display][identifier] will display a link.
+
+[Another text][another-identifier] will do the same. Hover the mouse over it to see the title.
+
+[This link] will do the same as well. It works as the identifier itself.
+
+[This link][] (same as above), has a second pair of empty brackets to indicate that the following parenthesis does not contain a link.
+
+<http://nytimes.com> works too. Must be used for explicit links.
+
+<!-- Identifiers, in alphabetical order -->
+
+[NY Times]: http://nytimes.com "The New York Times"
+[CNN]: http://cnn.com
+[NYT]: http://nytimes.com
+
+
 
 
 ## Footnotes
