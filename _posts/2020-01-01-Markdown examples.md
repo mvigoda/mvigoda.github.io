@@ -66,25 +66,6 @@ And a numbered list:
 
 {% include info.html text="You can include info boxes" %}
 
-## Images
-
-![Top 10 871 2011 - 2015]("images/871 - SEPTICEMIA OR SEVERE SEPSIS without MV 96+ HOURS W MCC 2011-2015 Top 10.svg"  "Top 10 871")
-
-
-
-![Top 10 872 2011 - 2015]("/images/872 - SEPTICEMIA OR SEVERE SEPSIS without MV 96+ HOURS without MCC 2011-2015 Top 10.svg"  "Top 10 872")
-
-
-![Logo](images/"logo.jpg")  
-
-
-![Logo]("images/logo.jpg")  
-
-
-![Logo](images/logo.jpg)  
-
-
-
  
 
 
