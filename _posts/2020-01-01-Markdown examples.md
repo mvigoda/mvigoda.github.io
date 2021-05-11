@@ -1,7 +1,7 @@
 # Basic Markdown  
 
 
-Last update : May 11, 2021  
+Last update : May 8, 2021   
 [Markdown Guide](https://about.gitlab.com/handbook/markdown-guide/)
 
 
@@ -119,7 +119,7 @@ print(1+1)
 ___
 
 
-[Blogging Advice] https://www.fast.ai/2019/05/13/blogging-advice  
+[Blogging Advice] https://www.fast.ai/2019/05/13/blogging-advice
 [Blogging Advice from Fastai](https://www.fast.ai/2019/05/13/blogging-advice)
 
 [link text itself]: http://www.reddit.com  
