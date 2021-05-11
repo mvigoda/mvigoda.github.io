@@ -8,7 +8,7 @@
 # Git  
 
 
-## Back to last commit  
+### Back to last commit  
 
 [Using Git — how to go back to a previous commit](https://medium.com/swlh/using-git-how-to-go-back-to-a-previous-commit-8579ccc8180f)
 
@@ -27,7 +27,7 @@ Use git checkout & the ID (in the same way you would checkout a branch) to go ba
 	
 	$ git checkout <commit-id> .
     
-## Git Checkout
+### Git Checkout
 
 
 
