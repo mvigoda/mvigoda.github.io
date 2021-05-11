@@ -120,6 +120,7 @@ ___
 
 
 [Blogging Advice] https://www.fast.ai/2019/05/13/blogging-advice
+[Blogging Advice from Fastai](https://www.fast.ai/2019/05/13/blogging-advice)
 
 [link text itself]: http://www.reddit.com  
 
