@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "data": {"name": "data-b308dfdb9fd681a76e6f3e55cf129085"}, "mark": {"type": "circle", "color": "black", "size": 60}, "encoding": {"tooltip": [{"type": "nominal", "field": "name"}], "x": {"type": "quantitative", "field": "discharges", "title": "Discharges"}, "y": {"type": "quantitative", "field": "medicare_payment", "title": "Avg Medicare Payment"}}, "height": 400, "title": "DRG:871 Year:2017 Min Discharges:400 State:MA", "width": 600, "$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json", "datasets": {"data-b308dfdb9fd681a76e6f3e55cf129085": [{"id_num": 220012, "drg": "871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC", "name": "CAPE COD HOSPITAL", "street": "88 LEWIS BAY ROAD", "city": "HYANNIS", "state": "MA", "zipcode": 2601, "region": "MA - Boston", "discharges": 909, "avg_charges": 25531, "total_payment": 16257, "medicare_payment": 14851, "year": 2017, "drg3": 871, "disc_times_pay": 13500058, "discharge_rank": 0, "payment_rank": 0}, {"id_num": 220033, "drg": "871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC", "name": "BEVERLY HOSPITAL CORPORATION", "street": "85 HERRICK STREET", "city": "BEVERLY", "state": "MA", "zipcode": 1915, "region": "MA - Boston", "discharges": 413, "avg_charges": 21962, "total_payment": 12510, "medicare_payment": 11377, "year": 2017, "drg3": 871, "disc_times_pay": 4699021, "discharge_rank": 0, "payment_rank": 0}, {"id_num": 220046, "drg": "871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC", "name": "BERKSHIRE MEDICAL CENTER INC - 1", "street": "725 NORTH STREET", "city": "PITTSFIELD", "state": "MA", "zipcode": 1201, "region": "NY - Albany", "discharges": 479, "avg_charges": 24338, "total_payment": 13894, "medicare_payment": 12884, "year": 2017, "drg3": 871, "disc_times_pay": 6171829, "discharge_rank": 0, "payment_rank": 0}, {"id_num": 220063, "drg": "871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC", "name": "LOWELL GENERAL HOSPITAL", "street": "295 VARNUM AVENUE", "city": "LOWELL", "state": "MA", "zipcode": 1854, "region": "MA - Boston", "discharges": 440, "avg_charges": 32017, "total_payment": 13180, "medicare_payment": 12103, "year": 2017, "drg3": 871, "disc_times_pay": 5325367, "discharge_rank": 0, "payment_rank": 0}, {"id_num": 220071, "drg": "871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC", "name": "MASSACHUSETTS GENERAL HOSPITAL", "street": "55 FRUIT STREET", "city": "BOSTON", "state": "MA", "zipcode": 2114, "region": "MA - Boston", "discharges": 481, "avg_charges": 90018, "total_payment": 20725, "medicare_payment": 17794, "year": 2017, "drg3": 871, "disc_times_pay": 8559266, "discharge_rank": 0, "payment_rank": 0}, {"id_num": 220074, "drg": "871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC", "name": "SOUTHCOAST HOSPITAL GROUP, INC", "street": "363 HIGHLAND AVENUE", "city": "FALL RIVER", "state": "MA", "zipcode": 2720, "region": "MA - Boston", "discharges": 1014, "avg_charges": 25839, "total_payment": 12771, "medicare_payment": 11676, "year": 2017, "drg3": 871, "disc_times_pay": 11839783, "discharge_rank": 0, "payment_rank": 0}, {"id_num": 220077, "drg": "871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC", "name": "BAYSTATE MEDICAL CENTER", "street": "759 CHESTNUT STREET", "city": "SPRINGFIELD", "state": "MA", "zipcode": 1199, "region": "MA - Springfield", "discharges": 599, "avg_charges": 29025, "total_payment": 15478, "medicare_payment": 14077, "year": 2017, "drg3": 871, "disc_times_pay": 8432206, "discharge_rank": 0, "payment_rank": 0}, {"id_num": 220086, "drg": "871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC", "name": "BETH ISRAEL DEACONESS MEDICAL CENTER", "street": "330 BROOKLINE AVENUE", "city": "BOSTON", "state": "MA", "zipcode": 2215, "region": "MA - Boston", "discharges": 423, "avg_charges": 37290, "total_payment": 19497, "medicare_payment": 17034, "year": 2017, "drg3": 871, "disc_times_pay": 7205452, "discharge_rank": 0, "payment_rank": 0}, {"id_num": 220100, "drg": "871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC", "name": "SOUTH SHORE HOSPITAL", "street": "55 FOGG ROAD", "city": "SOUTH WEYMOUTH", "state": "MA", "zipcode": 2190, "region": "MA - Boston", "discharges": 735, "avg_charges": 24381, "total_payment": 13089, "medicare_payment": 11616, "year": 2017, "drg3": 871, "disc_times_pay": 8538150, "discharge_rank": 0, "payment_rank": 0}, {"id_num": 220135, "drg": "871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC", "name": "FALMOUTH HOSPITAL", "street": "67 & 100 TER HEUN DRIVE", "city": "FALMOUTH", "state": "MA", "zipcode": 2540, "region": "MA - Boston", "discharges": 592, "avg_charges": 22706, "total_payment": 12040, "medicare_payment": 11034, "year": 2017, "drg3": 871, "disc_times_pay": 6532230, "discharge_rank": 0, "payment_rank": 0}, {"id_num": 220163, "drg": "871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC", "name": "UMASS MEMORIAL MEDICAL CENTER INC", "street": "55 LAKE AVENUE NORTH", "city": "WORCESTER", "state": "MA", "zipcode": 1655, "region": "MA - Worcester", "discharges": 651, "avg_charges": 57159, "total_payment": 20164, "medicare_payment": 16726, "year": 2017, "drg3": 871, "disc_times_pay": 10889252, "discharge_rank": 0, "payment_rank": 0}, {"id_num": 220171, "drg": "871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC", "name": "LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON", "street": "41 & 45 MALL ROAD", "city": "BURLINGTON", "state": "MA", "zipcode": 1803, "region": "MA - Boston", "discharges": 686, "avg_charges": 21995, "total_payment": 15227, "medicare_payment": 12446, "year": 2017, "drg3": 871, "disc_times_pay": 8538308, "discharge_rank": 0, "payment_rank": 0}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
