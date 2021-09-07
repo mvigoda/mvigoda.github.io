@@ -1,0 +1,27 @@
+%from create_TEX_table_with_header_and_data_numprint
+\subsection{2016 DRG Descriptions - Payments}
+\label{subsec:2016DRGDescriptions-Payments}
+\begin{table}[h!]
+\centering
+\begin{scriptsize}
+%\begin{tabular}{|>{\raggedright}p{1.0cm}||p{2.0cm}||>{\raggedleft}p{0.5cm}|>{\raggedleft}p{3.5cm}|>{\raggedleft}p{4.0cm}| >{\raggedleft}p{2.0cm}|}
+\begin{tabular}{| >{\raggedleft}p{1cm}| >{\raggedright}p{12cm}|}
+\hline
+  DRG &  Description\tabularnewline
+\hline
+\hline
+\numprint{871}  & Septicemia or Severe Sepsis W/O MV  $>$ 96 Hours W MCC     \tabularnewline \hline 
+\numprint{470}  & Major Joint Replacement or Reattachment Of Lower Extremity W/O MCC     \tabularnewline \hline 
+\numprint{853}  & Infectious and Parasitic Diseases W O.R. Procedure W MCC     \tabularnewline \hline 
+\numprint{291}  & Heart Failure and Shock W MCC      \tabularnewline \hline 
+\numprint{460}  & Spinal Fusion Except Cervical W/O MCC     \tabularnewline \hline 
+\numprint{3}  & Ecmo or Trach W MV  $>$ 96 Hrs or Pdx Exc Face, Mouth and Neck W Maj O.R.     \tabularnewline \hline 
+\numprint{193}  & Simple Pneumonia and Pleurisy W MCC     \tabularnewline \hline 
+\numprint{682}  & Renal Failure W MCC                \tabularnewline \hline 
+\numprint{981}  & Extensive O.R. Procedure Unrelated To Principal Diagnosis W MCC     \tabularnewline \hline 
+\numprint{247}  & Perc Cardiovasc Proc W Drug-Eluting Stent W/O MCC     \tabularnewline \hline 
+\end{tabular}
+\end{scriptsize}\caption{2016 DRG Descriptions - Payments}
+\label{table:2016 DRG Descriptions - Payments}
+\end{table}
+

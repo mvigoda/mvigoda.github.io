@@ -1,0 +1,27 @@
+%from create_TEX_table_with_header_and_data_numprint
+\subsection{2016 DRG Descriptions - Discharges}
+\label{subsec:2016DRGDescriptions-Discharges}
+\begin{table}[h!]
+\centering
+\begin{scriptsize}
+%\begin{tabular}{|>{\raggedright}p{1.0cm}||p{2.0cm}||>{\raggedleft}p{0.5cm}|>{\raggedleft}p{3.5cm}|>{\raggedleft}p{4.0cm}| >{\raggedleft}p{2.0cm}|}
+\begin{tabular}{| >{\raggedleft}p{1cm}| >{\raggedright}p{12cm}|}
+\hline
+  DRG &  Description\tabularnewline
+\hline
+\hline
+\numprint{871}  & Septicemia Or Severe Sepsis W/O Mv  $>$ 96 Hours W Mcc     \tabularnewline \hline 
+\numprint{470}  & Major Joint Replacement Or Reattachment Of Lower Extremity W/O Mcc     \tabularnewline \hline 
+\numprint{291}  & Heart Failure And Shock W Mcc      \tabularnewline \hline 
+\numprint{292}  & Heart Failure And Shock W Cc       \tabularnewline \hline 
+\numprint{392}  & Esophagitis, Gastroent And Misc Digest Disorders W/O Mcc     \tabularnewline \hline 
+\numprint{872}  & Septicemia Or Severe Sepsis W/O Mv  $>$ 96 Hours W/O Mcc     \tabularnewline \hline 
+\numprint{690}  & Kidney And Urinary Tract Infections W/O Mcc     \tabularnewline \hline 
+\numprint{189}  & Pulmonary Edema And Respiratory Failure     \tabularnewline \hline 
+\numprint{683}  & Renal Failure W Cc                 \tabularnewline \hline 
+\numprint{193}  & Simple Pneumonia And Pleurisy W Mcc     \tabularnewline \hline 
+\end{tabular}
+\end{scriptsize}\caption{2016 DRG Descriptions - Discharges}
+\label{table:2016 DRG Descriptions - Discharges}
+\end{table}
+

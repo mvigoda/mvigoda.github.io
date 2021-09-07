@@ -1,0 +1,20 @@
+
+%Created in "insert_TEX_figure" in "latex_utils"
+\newpage
+\clearpage
+\section{2014}
+
+
+
+
+
+\subsection{2014 Discharges}
+\label{sec:2014Discharges}
+\begin{figure}[H]
+\centering
+\includegraphics[scale = 0.6]{Dir_Plot_Top_DRGs/2014 Top DRGs - by Discharges.pdf}
+\caption{2014 Discharges}
+\label{fig:2014 Discharges}
+%\vspace{1cm}
+\end{figure}
+

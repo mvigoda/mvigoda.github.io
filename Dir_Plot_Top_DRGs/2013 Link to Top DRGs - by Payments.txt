@@ -1,0 +1,12 @@
+
+%Created in "insert_TEX_figure" in "latex_utils"
+\subsection{2013 Payments}
+\label{sec:2013Payments}
+\begin{figure}[H]
+\centering
+\includegraphics[scale = 0.6]{Dir_Plot_Top_DRGs/2013 Top DRGs - by Payments.pdf}
+\caption{2013 Payments}
+\label{fig:2013 Payments}
+%\vspace{1cm}
+\end{figure}
+
