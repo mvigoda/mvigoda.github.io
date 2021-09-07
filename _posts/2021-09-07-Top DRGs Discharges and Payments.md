@@ -4,10 +4,8 @@
 
 Discharges            |  Payments
 :-------------------------:|:-------------------------:
-<div style="text-align: center;">
- <IMG SRC="https://michaelvigoda.com/Dir_Plot_Top_DRGs/Top DRGs SVGs/2011 Top DRGs - by Discharges.svg"  width="300" height="300" ALT="image"> 
-|
- <div style="text-align: center;"><IMG SRC="https://michaelvigoda.com/Dir_Plot_Top_DRGs/Top DRGs SVGs/2011 Top DRGs - by Payments.svg"  width="300" height="300" ALT="image">|
+|<div style="text-align: center;"> <IMG SRC="https://michaelvigoda.com/Dir_Plot_Top_DRGs/Top DRGs SVGs/2011 Top DRGs - by Discharges.svg"  width="300" height="300" ALT="image"> |
+<div style="text-align: center;"><IMG SRC="https://michaelvigoda.com/Dir_Plot_Top_DRGs/Top DRGs SVGs/2011 Top DRGs - by Payments.svg"  width="300" height="300" ALT="image">|
 
 
  
