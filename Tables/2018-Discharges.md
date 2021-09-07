@@ -2,6 +2,7 @@
 
 
 | No. | Discharges in '000s|  Description  |  
+|---|---:|---|
 |  1   |     625.93 |  871 - Septicemia or Severe Sepsis W/O MV $ > $96 Hours W MCC |   
 |   2   |     463.05 |  470 - Major Joint Replacement or Reattachment Of Lower Extremity W/O MCC |   
 |   3   |     381.90 |  291 - Heart Failure and Shock W MCC |   
