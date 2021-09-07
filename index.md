@@ -10,4 +10,5 @@
 [2011 Discharges](https://michaelvigoda.com/Dir_Plot_Top_DRGs/Top DRGs SVGs/2011 Top DRGs - by Discharges.svg)
 
 [Table of Discharges 2011 - 2018](https://michaelvigoda.com/Tables/Table-of-Discharges.md)
+[Table of Payments 2011 - 2018](https://michaelvigoda.com/Tables/Table-of-Payments.md)
 
