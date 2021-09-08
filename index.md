@@ -15,5 +15,4 @@ Bar Charts showing Top 10 DRGs - Discharges
 
 
 
-[871](https://github.com/mvigoda/mvigoda.github.io/Charts/871.html)
-[871](https://github.com/mvigoda/mvigoda.github.io/blob/master/Charts/871.html)
+[871](https://michaelvigoda.com/Charts/871.html)
