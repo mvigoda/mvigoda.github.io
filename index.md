@@ -11,6 +11,9 @@ Bar Charts showing Top 10 DRGs - Discharges
 [Table of Discharges 2011 - 2018](https://michaelvigoda.com/Tables/Table-of-Discharges.md)   
 [Table of Payments 2011 - 2018](https://michaelvigoda.com/Tables/Table-of-Payments.md)
 
-https://github.com/mvigoda/mvigoda.github.io/blob/master/Charts/871.html
 
-https://github.com/mvigoda/mvigoda.github.io/Charts/871.html
+
+
+
+[871](https://github.com/mvigoda/mvigoda.github.io/Charts/871.html)
+[871](https://github.com/mvigoda/mvigoda.github.io/blob/master/Charts/871.html)
