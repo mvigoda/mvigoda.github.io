@@ -246,3 +246,8 @@
 | 23   |       0.80  |  219 - Cardiac Valve & Oth Maj Cardiothoracic Proc W/O Card Cath W MCC| 
 | 24   |       0.77  |  208 - Respiratory System Diagnosis W Ventilator Support <=96 Hours| 
 | 25   |       0.77  |  378 - G.I. Hemorrhage W CC| 
+
+
+
+
+code found in Generate TXT files for Annual Discharges and Payments.ipynb  

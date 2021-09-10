@@ -1,0 +1,35 @@
+\subsection{2011 Discharges}
+
+\begin{table}[h!]
+\centering
+\begin{small}
+\begin{tabular}{|  P{0.5cm}| ||p{1.5cm}||>{\raggedright}p{12cm}|}
+\hline
+No &   Discharges in 000s   &  DRG    \tabularnewline\hline
+\hline
+\hline
+ 1   &     426.93 &  470 - Major Joint Replacement or Reattachment Of Lower Extremity W/O MCC \tabularnewline \hline 
+ 2   &     319.02 &  871 - Septicemia or Severe Sepsis W/O MV $ > $96 Hours W MCC \tabularnewline \hline 
+ 3   &     244.65 &  392 - Esophagitis, Gastroent \& Misc Digest Disorders W/O MCC \tabularnewline \hline 
+ 4   &     221.86 &  292 - Heart Failure \& Shock W CC \tabularnewline \hline 
+ 5   &     206.29 &  690 - Kidney \& Urinary Tract Infections W/O MCC \tabularnewline \hline 
+ 6   &     197.89 &  194 - Simple Pneumonia \& Pleurisy W CC \tabularnewline \hline 
+ 7   &     185.56 &  291 - Heart Failure \& Shock W MCC \tabularnewline \hline 
+ 8   &     153.29 &  641 - Misc Disorders Of Nutrition,Metabolism,Fluids/Electrolytes W/O MCC \tabularnewline \hline 
+ 9   &     150.42 &  683 - Renal Failure W CC \tabularnewline \hline 
+10   &     149.61 &  190 - Chronic Obstructive Pulmonary Disease W MCC \tabularnewline \hline 
+11   &     148.46 &  191 - Chronic Obstructive Pulmonary Disease W CC \tabularnewline \hline 
+12   &     141.92 &  312 - Syncope \& Collapse \tabularnewline \hline 
+13   &     140.77 &  603 - Cellulitis W/O MCC \tabularnewline \hline 
+14   &     138.67 &  378 - G.I. Hemorrhage W CC \tabularnewline \hline 
+15   &     131.06 &  313 - Chest Pain \tabularnewline \hline 
+16   &     127.93 &  193 - Simple Pneumonia \& Pleurisy W MCC \tabularnewline \hline 
+17   &     115.88 &  287 - Circulatory Disorders Except Ami, W Card Cath W/O MCC \tabularnewline \hline 
+18   &     114.51 &  192 - Chronic Obstructive Pulmonary Disease W/O CC/MCC \tabularnewline \hline 
+19   &     113.44 &  310 - Cardiac Arrhythmia \& Conduction Disorders W/O CC/MCC \tabularnewline \hline 
+20   &     112.39 &  872 - Septicemia or Severe Sepsis W/O MV $ > $96 Hours W/O MCC \tabularnewline \hline 
+\end{tabular}
+\end{small}
+\caption{Top 20 DRGs by Discharges in 2011}
+\label{table:Top 20 DRGs by Discharges in 2011}
+\end{table}

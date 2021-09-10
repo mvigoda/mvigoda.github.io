@@ -1,0 +1,35 @@
+\subsection{2014 Payments}
+
+\begin{table}[h!]
+\centering
+\begin{small}
+\begin{tabular}{|  P{0.5cm}| ||p{1.5cm}||>{\raggedright}p{12cm}|}
+\hline
+No &   Payments (\$B)   &  DRG    \tabularnewline\hline
+\hline
+\hline
+ 1   &       5.60 &  470 - Major Joint Replacement or Reattachment Of Lower Extremity W/O MCC \tabularnewline \hline 
+ 2   &       5.31 &  871 - Septicemia or Severe Sepsis W/O MV $ > $96 Hours W MCC \tabularnewline \hline 
+ 3   &       1.97 &  853 - Infectious \& Parasitic Diseases W O.R. Procedure W MCC \tabularnewline \hline 
+ 4   &       1.90 &  291 - Heart Failure \& Shock W MCC \tabularnewline \hline 
+ 5   &       1.80 &  460 - Spinal Fusion Except Cervical W/O MCC \tabularnewline \hline 
+ 6   &       1.53 &  003 - Ecmo or Trach W MV $ > $96 Hrs or Pdx Exc Face, Mouth \& Neck W Maj O.R. \tabularnewline \hline 
+ 7   &       1.21 &  292 - Heart Failure \& Shock W CC \tabularnewline \hline 
+ 8   &       1.17 &  193 - Simple Pneumonia \& Pleurisy W MCC \tabularnewline \hline 
+ 9   &       1.16 &  870 - Septicemia or Severe Sepsis W MV $ > $96 Hours \tabularnewline \hline 
+10   &       1.09 &  682 - Renal Failure W MCC \tabularnewline \hline 
+11   &       1.07 &  329 - Major Small \& Large Bowel Procedures W MCC \tabularnewline \hline 
+12   &       1.06 &  219 - Cardiac Valve \& Oth Maj Cardiothoracic Proc W/O Card Cath W MCC \tabularnewline \hline 
+13   &       1.04 &  247 - Perc Cardiovasc Proc W Drug-Eluting Stent W/O MCC \tabularnewline \hline 
+14   &       0.95 &  190 - Chronic Obstructive Pulmonary Disease W MCC \tabularnewline \hline 
+15   &       0.93 &  481 - Hip \& Femur Procedures Except Major Joint W CC \tabularnewline \hline 
+16   &       0.93 &  208 - Respiratory System Diagnosis W Ventilator Support <=96 Hours \tabularnewline \hline 
+17   &       0.90 &  872 - Septicemia or Severe Sepsis W/O MV $ > $96 Hours W/O MCC \tabularnewline \hline 
+18   &       0.89 &  189 - Pulmonary Edema \& Respiratory Failure \tabularnewline \hline 
+19   &       0.87 &  194 - Simple Pneumonia \& Pleurisy W CC \tabularnewline \hline 
+20   &       0.87 &  004 - Trach W MV $ > $96 Hrs or Pdx Exc Face, Mouth \& Neck W/O Maj O.R. \tabularnewline \hline 
+\end{tabular}
+\end{small}
+\caption{ Top 20 DRGs by Payments in 2014}
+\label{table:Top 20 DRGs by Payments in 2014}
+\end{table}

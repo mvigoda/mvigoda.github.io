@@ -1,0 +1,35 @@
+\subsection{2018 Discharges}
+
+\begin{table}[h!]
+\centering
+\begin{small}
+\begin{tabular}{|  P{0.5cm}| ||p{1.5cm}||>{\raggedright}p{12cm}|}
+\hline
+No &   Discharges in 000s   &  DRG    \tabularnewline\hline
+\hline
+\hline
+ 1   &     625.93 &  871 - Septicemia or Severe Sepsis W/O MV $ > $96 Hours W MCC \tabularnewline \hline 
+ 2   &     463.05 &  470 - Major Joint Replacement or Reattachment Of Lower Extremity W/O MCC \tabularnewline \hline 
+ 3   &     381.90 &  291 - Heart Failure \& Shock W MCC \tabularnewline \hline 
+ 4   &     164.69 &  193 - Simple Pneumonia \& Pleurisy W MCC \tabularnewline \hline 
+ 5   &     159.38 &  872 - Septicemia or Severe Sepsis W/O MV $ > $96 Hours W/O MCC \tabularnewline \hline 
+ 6   &     147.92 &  189 - Pulmonary Edema \& Respiratory Failure \tabularnewline \hline 
+ 7   &     142.38 &  190 - Chronic Obstructive Pulmonary Disease W MCC \tabularnewline \hline 
+ 8   &     141.92 &  392 - Esophagitis, Gastroent \& Misc Digest Disorders W/O MCC \tabularnewline \hline 
+ 9   &     130.69 &  683 - Renal Failure W CC \tabularnewline \hline 
+10   &     128.43 &  378 - G.I. Hemorrhage W CC \tabularnewline \hline 
+11   &     128.31 &  690 - Kidney \& Urinary Tract Infections W/O MCC \tabularnewline \hline 
+12   &     124.07 &  194 - Simple Pneumonia \& Pleurisy W CC \tabularnewline \hline 
+13   &     108.27 &  682 - Renal Failure W MCC \tabularnewline \hline 
+14   &      99.37 &  065 - Intracranial Hemorrhage or Cerebral Infarction W CC or TPA In 24 Hrs \tabularnewline \hline 
+15   &      99.02 &  603 - Cellulitis W/O MCC \tabularnewline \hline 
+16   &      89.76 &  292 - Heart Failure \& Shock W CC \tabularnewline \hline 
+17   &      88.97 &  853 - Infectious \& Parasitic Diseases W O.R. Procedure W MCC \tabularnewline \hline 
+18   &      85.16 &  247 - Perc Cardiovasc Proc W Drug-Eluting Stent W/O MCC \tabularnewline \hline 
+19   &      83.95 &  280 - Acute Myocardial Infarction, Discharged Alive W MCC \tabularnewline \hline 
+20   &      82.94 &  309 - Cardiac Arrhythmia \& Conduction Disorders W CC \tabularnewline \hline 
+\end{tabular}
+\end{small}
+\caption{Top 20 DRGs by Discharges in 2018}
+\label{table:Top 20 DRGs by Discharges in 2018}
+\end{table}

@@ -1,0 +1,35 @@
+\subsection{2011 Payments}
+
+\begin{table}[h!]
+\centering
+\begin{small}
+\begin{tabular}{|  P{0.5cm}| ||p{1.5cm}||>{\raggedright}p{12cm}|}
+\hline
+No &   Payments (\$B)   &  DRG    \tabularnewline\hline
+\hline
+\hline
+ 1   &       5.15 &  470 - Major Joint Replacement or Reattachment Of Lower Extremity W/O MCC \tabularnewline \hline 
+ 2   &       4.00 &  871 - Septicemia or Severe Sepsis W/O MV $ > $96 Hours W MCC \tabularnewline \hline 
+ 3   &       1.77 &  291 - Heart Failure \& Shock W MCC \tabularnewline \hline 
+ 4   &       1.56 &  460 - Spinal Fusion Except Cervical W/O MCC \tabularnewline \hline 
+ 5   &       1.53 &  853 - Infectious \& Parasitic Diseases W O.R. Procedure W MCC \tabularnewline \hline 
+ 6   &       1.39 &  292 - Heart Failure \& Shock W CC \tabularnewline \hline 
+ 7   &       1.33 &  329 - Major Small \& Large Bowel Procedures W MCC \tabularnewline \hline 
+ 8   &       1.28 &  247 - Perc Cardiovasc Proc W Drug-Eluting Stent W/O MCC \tabularnewline \hline 
+ 9   &       1.16 &  194 - Simple Pneumonia \& Pleurisy W CC \tabularnewline \hline 
+10   &       1.14 &  193 - Simple Pneumonia \& Pleurisy W MCC \tabularnewline \hline 
+11   &       1.08 &  682 - Renal Failure W MCC \tabularnewline \hline 
+12   &       1.06 &  190 - Chronic Obstructive Pulmonary Disease W MCC \tabularnewline \hline 
+13   &       1.03 &  208 - Respiratory System Diagnosis W Ventilator Support <=96 Hours \tabularnewline \hline 
+14   &       0.98 &  392 - Esophagitis, Gastroent \& Misc Digest Disorders W/O MCC \tabularnewline \hline 
+15   &       0.98 &  870 - Septicemia or Severe Sepsis W MV $ > $96 Hours \tabularnewline \hline 
+16   &       0.96 &  207 - Respiratory System Diagnosis W Ventilator Support $ > $96 Hours \tabularnewline \hline 
+17   &       0.93 &  690 - Kidney \& Urinary Tract Infections W/O MCC \tabularnewline \hline 
+18   &       0.92 &  683 - Renal Failure W CC \tabularnewline \hline 
+19   &       0.88 &  481 - Hip \& Femur Procedures Except Major Joint W CC \tabularnewline \hline 
+20   &       0.86 &  177 - Respiratory Infections \& Inflammations W MCC \tabularnewline \hline 
+\end{tabular}
+\end{small}
+\caption{ Top 20 DRGs by Payments in 2011}
+\label{table:Top 20 DRGs by Payments in 2011}
+\end{table}

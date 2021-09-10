@@ -1,0 +1,35 @@
+\subsection{2012 Discharges}
+
+\begin{table}[h!]
+\centering
+\begin{small}
+\begin{tabular}{|  P{0.5cm}| ||p{1.5cm}||>{\raggedright}p{12cm}|}
+\hline
+No &   Discharges in 000s   &  DRG    \tabularnewline\hline
+\hline
+\hline
+ 1   &     430.55 &  470 - Major Joint Replacement or Reattachment Of Lower Extremity W/O MCC \tabularnewline \hline 
+ 2   &     345.30 &  871 - Septicemia or Severe Sepsis W/O MV $ > $96 Hours W MCC \tabularnewline \hline 
+ 3   &     215.40 &  392 - Esophagitis, Gastroent \& Misc Digest Disorders W/O MCC \tabularnewline \hline 
+ 4   &     204.06 &  292 - Heart Failure \& Shock W CC \tabularnewline \hline 
+ 5   &     195.12 &  690 - Kidney \& Urinary Tract Infections W/O MCC \tabularnewline \hline 
+ 6   &     182.43 &  291 - Heart Failure \& Shock W MCC \tabularnewline \hline 
+ 7   &     180.06 &  194 - Simple Pneumonia \& Pleurisy W CC \tabularnewline \hline 
+ 8   &     153.16 &  683 - Renal Failure W CC \tabularnewline \hline 
+ 9   &     140.46 &  190 - Chronic Obstructive Pulmonary Disease W MCC \tabularnewline \hline 
+10   &     139.96 &  603 - Cellulitis W/O MCC \tabularnewline \hline 
+11   &     138.92 &  378 - G.I. Hemorrhage W CC \tabularnewline \hline 
+12   &     135.07 &  191 - Chronic Obstructive Pulmonary Disease W CC \tabularnewline \hline 
+13   &     132.85 &  641 - Misc Disorders Of Nutrition,Metabolism,Fluids/Electrolytes W/O MCC \tabularnewline \hline 
+14   &     127.83 &  193 - Simple Pneumonia \& Pleurisy W MCC \tabularnewline \hline 
+15   &     119.36 &  872 - Septicemia or Severe Sepsis W/O MV $ > $96 Hours W/O MCC \tabularnewline \hline 
+16   &     118.43 &  312 - Syncope \& Collapse \tabularnewline \hline 
+17   &     107.47 &  310 - Cardiac Arrhythmia \& Conduction Disorders W/O CC/MCC \tabularnewline \hline 
+18   &     106.67 &  287 - Circulatory Disorders Except Ami, W Card Cath W/O MCC \tabularnewline \hline 
+19   &     104.49 &  682 - Renal Failure W MCC \tabularnewline \hline 
+20   &     103.85 &  065 - Intracranial Hemorrhage or Cerebral Infarction W CC or TPA In 24 Hrs \tabularnewline \hline 
+\end{tabular}
+\end{small}
+\caption{Top 20 DRGs by Discharges in 2012}
+\label{table:Top 20 DRGs by Discharges in 2012}
+\end{table}

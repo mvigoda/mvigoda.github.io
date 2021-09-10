@@ -1,0 +1,35 @@
+\subsection{2018 Payments}
+
+\begin{table}[h!]
+\centering
+\begin{small}
+\begin{tabular}{|  P{0.5cm}| ||p{1.5cm}||>{\raggedright}p{12cm}|}
+\hline
+No &   Payments (\$B)   &  DRG    \tabularnewline\hline
+\hline
+\hline
+ 1   &       7.53 &  871 - Septicemia or Severe Sepsis W/O MV $ > $96 Hours W MCC \tabularnewline \hline 
+ 2   &       5.48 &  470 - Major Joint Replacement or Reattachment Of Lower Extremity W/O MCC \tabularnewline \hline 
+ 3   &       3.61 &  291 - Heart Failure \& Shock W MCC \tabularnewline \hline 
+ 4   &       3.16 &  853 - Infectious \& Parasitic Diseases W O.R. Procedure W MCC \tabularnewline \hline 
+ 5   &       1.63 &  003 - Ecmo or Trach W MV $ > $96 Hrs or Pdx Exc Face, Mouth \& Neck W Maj O.R. \tabularnewline \hline 
+ 6   &       1.38 &  193 - Simple Pneumonia \& Pleurisy W MCC \tabularnewline \hline 
+ 7   &       1.36 &  460 - Spinal Fusion Except Cervical W/O MCC \tabularnewline \hline 
+ 8   &       1.17 &  189 - Pulmonary Edema \& Respiratory Failure \tabularnewline \hline 
+ 9   &       1.09 &  247 - Perc Cardiovasc Proc W Drug-Eluting Stent W/O MCC \tabularnewline \hline 
+10   &       1.05 &  872 - Septicemia or Severe Sepsis W/O MV $ > $96 Hours W/O MCC \tabularnewline \hline 
+11   &       1.04 &  870 - Septicemia or Severe Sepsis W MV $ > $96 Hours \tabularnewline \hline 
+12   &       1.04 &  682 - Renal Failure W MCC \tabularnewline \hline 
+13   &       1.01 &  190 - Chronic Obstructive Pulmonary Disease W MCC \tabularnewline \hline 
+14   &       0.98 &  246 - Perc Cardiovasc Proc W Drug-Eluting Stent W MCC or 4+ Vessels/Stents \tabularnewline \hline 
+15   &       0.97 &  329 - Major Small \& Large Bowel Procedures W MCC \tabularnewline \hline 
+16   &       0.96 &  481 - Hip \& Femur Procedures Except Major Joint W CC \tabularnewline \hline 
+17   &       0.96 &  267 - Endovascular Cardiac Valve Replacement W/O MCC \tabularnewline \hline 
+18   &       0.95 &  064 - Intracranial Hemorrhage or Cerebral Infarction W MCC \tabularnewline \hline 
+19   &       0.90 &  280 - Acute Myocardial Infarction, Discharged Alive W MCC \tabularnewline \hline 
+20   &       0.89 &  483 - Major Joint/Limb Reattachment Procedure Of Upper Extremities \tabularnewline \hline 
+\end{tabular}
+\end{small}
+\caption{ Top 20 DRGs by Payments in 2018}
+\label{table:Top 20 DRGs by Payments in 2018}
+\end{table}

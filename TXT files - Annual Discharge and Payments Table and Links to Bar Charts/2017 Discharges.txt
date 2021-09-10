@@ -1,0 +1,35 @@
+\subsection{2017 Discharges}
+
+\begin{table}[h!]
+\centering
+\begin{small}
+\begin{tabular}{|  P{0.5cm}| ||p{1.5cm}||>{\raggedright}p{12cm}|}
+\hline
+No &   Discharges in 000s   &  DRG    \tabularnewline\hline
+\hline
+\hline
+ 1   &     597.74 &  871 - Septicemia or Severe Sepsis W/O MV $ > $96 Hours W MCC \tabularnewline \hline 
+ 2   &     510.63 &  470 - Major Joint Replacement or Reattachment Of Lower Extremity W/O MCC \tabularnewline \hline 
+ 3   &     359.44 &  291 - Heart Failure \& Shock W MCC \tabularnewline \hline 
+ 4   &     215.53 &  190 - Chronic Obstructive Pulmonary Disease W MCC \tabularnewline \hline 
+ 5   &     165.61 &  189 - Pulmonary Edema \& Respiratory Failure \tabularnewline \hline 
+ 6   &     157.85 &  872 - Septicemia or Severe Sepsis W/O MV $ > $96 Hours W/O MCC \tabularnewline \hline 
+ 7   &     155.84 &  392 - Esophagitis, Gastroent \& Misc Digest Disorders W/O MCC \tabularnewline \hline 
+ 8   &     138.50 &  690 - Kidney \& Urinary Tract Infections W/O MCC \tabularnewline \hline 
+ 9   &     134.01 &  683 - Renal Failure W CC \tabularnewline \hline 
+10   &     131.16 &  378 - G.I. Hemorrhage W CC \tabularnewline \hline 
+11   &     109.19 &  682 - Renal Failure W MCC \tabularnewline \hline 
+12   &     108.45 &  065 - Intracranial Hemorrhage or Cerebral Infarction W CC or TPA In 24 Hrs \tabularnewline \hline 
+13   &     106.51 &  603 - Cellulitis W/O MCC \tabularnewline \hline 
+14   &     105.42 &  292 - Heart Failure \& Shock W CC \tabularnewline \hline 
+15   &     104.67 &  193 - Simple Pneumonia \& Pleurisy W MCC \tabularnewline \hline 
+16   &     100.56 &  194 - Simple Pneumonia \& Pleurisy W CC \tabularnewline \hline 
+17   &      86.70 &  309 - Cardiac Arrhythmia \& Conduction Disorders W CC \tabularnewline \hline 
+18   &      86.68 &  247 - Perc Cardiovasc Proc W Drug-Eluting Stent W/O MCC \tabularnewline \hline 
+19   &      85.86 &  191 - Chronic Obstructive Pulmonary Disease W CC \tabularnewline \hline 
+20   &      85.10 &  641 - Misc Disorders Of Nutrition,Metabolism,Fluids/Electrolytes W/O MCC \tabularnewline \hline 
+\end{tabular}
+\end{small}
+\caption{Top 20 DRGs by Discharges in 2017}
+\label{table:Top 20 DRGs by Discharges in 2017}
+\end{table}

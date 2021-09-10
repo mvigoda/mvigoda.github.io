@@ -1,0 +1,35 @@
+\subsection{2016 Discharges}
+
+\begin{table}[h!]
+\centering
+\begin{small}
+\begin{tabular}{|  P{0.5cm}| ||p{1.5cm}||>{\raggedright}p{12cm}|}
+\hline
+No &   Discharges in 000s   &  DRG    \tabularnewline\hline
+\hline
+\hline
+ 1   &     538.43 &  871 - Septicemia or Severe Sepsis W/O MV $ > $96 Hours W MCC \tabularnewline \hline 
+ 2   &     501.44 &  470 - Major Joint Replacement or Reattachment Of Lower Extremity W/O MCC \tabularnewline \hline 
+ 3   &     233.01 &  291 - Heart Failure \& Shock W MCC \tabularnewline \hline 
+ 4   &     181.59 &  292 - Heart Failure \& Shock W CC \tabularnewline \hline 
+ 5   &     167.04 &  392 - Esophagitis, Gastroent \& Misc Digest Disorders W/O MCC \tabularnewline \hline 
+ 6   &     151.09 &  872 - Septicemia or Severe Sepsis W/O MV $ > $96 Hours W/O MCC \tabularnewline \hline 
+ 7   &     144.21 &  690 - Kidney \& Urinary Tract Infections W/O MCC \tabularnewline \hline 
+ 8   &     142.98 &  189 - Pulmonary Edema \& Respiratory Failure \tabularnewline \hline 
+ 9   &     141.76 &  683 - Renal Failure W CC \tabularnewline \hline 
+10   &     137.67 &  193 - Simple Pneumonia \& Pleurisy W MCC \tabularnewline \hline 
+11   &     132.03 &  190 - Chronic Obstructive Pulmonary Disease W MCC \tabularnewline \hline 
+12   &     125.01 &  378 - G.I. Hemorrhage W CC \tabularnewline \hline 
+13   &     124.48 &  194 - Simple Pneumonia \& Pleurisy W CC \tabularnewline \hline 
+14   &     122.15 &  682 - Renal Failure W MCC \tabularnewline \hline 
+15   &     113.20 &  603 - Cellulitis W/O MCC \tabularnewline \hline 
+16   &     110.17 &  065 - Intracranial Hemorrhage or Cerebral Infarction W CC or TPA In 24 Hrs \tabularnewline \hline 
+17   &      91.04 &  641 - Misc Disorders Of Nutrition,Metabolism,Fluids/Electrolytes W/O MCC \tabularnewline \hline 
+18   &      91.03 &  191 - Chronic Obstructive Pulmonary Disease W CC \tabularnewline \hline 
+19   &      88.96 &  309 - Cardiac Arrhythmia \& Conduction Disorders W CC \tabularnewline \hline 
+20   &      88.07 &  853 - Infectious \& Parasitic Diseases W O.R. Procedure W MCC \tabularnewline \hline 
+\end{tabular}
+\end{small}
+\caption{Top 20 DRGs by Discharges in 2016}
+\label{table:Top 20 DRGs by Discharges in 2016}
+\end{table}
