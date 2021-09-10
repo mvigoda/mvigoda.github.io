@@ -16,4 +16,8 @@ Bar Charts showing Top 10 DRGs - Discharges
 
 
 [871](https://michaelvigoda.com/Charts/871.html)
+
+
+# Longitudinal View of Top Sites for Top DRGs
+[871](https://michaelvigoda.com/Charts/Top sites 871.html)
 [470](https://michaelvigoda.com/Charts/Top sites 470.html)
