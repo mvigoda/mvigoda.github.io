@@ -22,4 +22,17 @@ Bar Charts showing Top 10 DRGs - Discharges
 1. [871](https://michaelvigoda.com/Charts/Top_sites_871.html)  
 2. [470](https://michaelvigoda.com/Charts/Top_sites_470.html)
 
-[Longitudinal View of Top Sites for Top DRGs](https://michaelvigoda.com/Charts/LongitudinalViewTopDRGs.md)
+1. [871](https://michaelvigoda.com/Charts/Top_sites_871.html)  
+2. [470](https://michaelvigoda.com/Charts/Top_sites_470.html)
+
+1. [871](https://michaelvigoda.com/Charts/Top_sites_871.html)  
+2. [470](https://michaelvigoda.com/Charts/Top_sites_470.html)
+
+Here's a footnote [^1]. Here it is in Basic Formatting. 
+
+
+## Footnotes
+[^1]: For some reason linking to another Markdown page just shows the text and it isn't treated as Markdown.
+
+
+
