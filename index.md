@@ -8,9 +8,9 @@
 
 
 [Header A](# Header A)  
-[Subheader ONE](# Subheader ONE)  
 [Header B](# Header B)  
 
+[Subheader ONE](# Subheader ONE)  
 
 
 
@@ -62,11 +62,8 @@ Here's a footnote [^1]. Here it is in Basic Formatting.
 
 
 
-
-
 <a id="Header A"></a>
 # Header A
-
 
 <a id="Header B"></a>
 # Header B
