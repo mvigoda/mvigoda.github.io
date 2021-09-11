@@ -1,15 +1,17 @@
 
 
 [Top DRGs Based on Discharges](#Top DRGs Based on Discharges)   
-[DETAIL SECTION](# DETAIL SECTION)  
 [Longitudinal View of Top Sites for Top DRGs](#Longitudinal View of Top Sites for Top DRGs)  
+
+
+[DETAIL SECTION](# DETAIL SECTION)  
 
 
 [Header A](# Header A)  
 [Subheader ONE](# Subheader ONE)  
 [Header B](# Header B)  
 
-[here](#here) 
+
 
 
 
@@ -59,9 +61,6 @@ Bar Charts showing Top 10 DRGs - Discharges
 Here's a footnote [^1]. Here it is in Basic Formatting. 
 
 
-## Footnotes
-[^1]: This is the footnote.
-
 
 
 
@@ -69,10 +68,13 @@ Here's a footnote [^1]. Here it is in Basic Formatting.
 # Header A
 
 
-<a id="Subheader ONE"></a>
-# Subheader ONE
-
-
-
 <a id="Header B"></a>
 # Header B
+
+<a id="Subheader ONE"></a>
+## Subheader ONE
+
+
+
+## Footnotes
+[^1]: This is the footnote.
