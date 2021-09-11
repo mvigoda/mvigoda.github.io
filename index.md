@@ -3,10 +3,14 @@
 [Top DRGs Based on Discharges](#Top DRGs Based on Discharges)   
 [DETAIL SECTION](# DETAIL SECTION)  
 [Longitudinal View of Top Sites for Top DRGs](#Longitudinal View of Top Sites for Top DRGs)  
-[A](#A)  
+
+
+[Header A](# Header A)  
+[Subheader ONE](# Subheader ONE)  
+[Header B](# Header B)  
+
 [here](#here) 
 
-[Link text](#some-id)
 
 
 
@@ -59,11 +63,16 @@ Here's a footnote [^1]. Here it is in Basic Formatting.
 [^1]: This is the footnote.
 
 
-# A
 
 
-<a id="DETAIL SECTION"></a>
-# DETAIL SECTION
+<a id="Header A"></a>
+# Header A
 
-<a id="here"></a>
-# here
+
+<a id="Subheader ONE"></a>
+# Subheader ONE
+
+
+
+<a id="Header B"></a>
+# Header B
