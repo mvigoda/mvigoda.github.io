@@ -2,7 +2,6 @@
 
 [Top DRGs Based on Discharges](#Top DRGs Based on Discharges)   
 [DETAIL SECTION](# DETAIL SECTION)  
-[Longitudinal View of Top Sites for Top DRGs](#Longitudinal-View-of-Top-Sites-for-Top-DRGs)  
 [Longitudinal View of Top Sites for Top DRGs](#Longitudinal View of Top Sites for Top DRGs)  
 [A](#A)  
 [here](#here) 
@@ -42,7 +41,7 @@ Bar Charts showing Top 10 DRGs - Discharges
 [378 - G.I. HEMORRHAGE W CC](https://michaelvigoda.com/Charts/378.html)  
   
 
-
+<a id="Longitudinal View of Top Sites for Top DRGs"></a>
 # Longitudinal View of Top Sites for Top DRGs
 1. [871](https://michaelvigoda.com/Charts/Top_sites_871.html)  
 2. [470](https://michaelvigoda.com/Charts/Top_sites_470.html)
