@@ -1,6 +1,7 @@
 
 
 [Top DRGs Based on Discharges](#Top DRGs Based on Discharges)   
+[Details](## DETAIL SECTION)
 [Longitudinal View of Top Sites for Top DRGs](#Longitudinal-View-of-Top-Sites-for-Top-DRGs)  
 [Longitudinal View of Top Sites for Top DRGs](#Longitudinal View of Top Sites for Top DRGs)  
 [A](#A)  
@@ -63,7 +64,6 @@ Here's a footnote [^1]. Here it is in Basic Formatting.
 
 
  
-<a name="some-id"></a>  
 # DETAIL SECTION
 
 <a id="here"></a>
