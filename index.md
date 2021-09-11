@@ -15,17 +15,17 @@ Bar Charts showing Top 10 DRGs - Discharges
 
 
 
-[871](https://michaelvigoda.com/Charts/871.html)
-[871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC](https://michaelvigoda.com/Charts/871.html)
-[470 - MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREM](https://michaelvigoda.com/Charts/470.html)
-[291 - HEART FAILURE & SHOCK W MCC](https://michaelvigoda.com/Charts/291.html)
-[193 - SIMPLE PNEUMONIA & PLEURISY W MCC](https://michaelvigoda.com/Charts/193.html)
-[872 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W/O MCC](https://michaelvigoda.com/Charts/872.html)
-[189 - PULMONARY EDEMA & RESPIRATORY FAILURE](https://michaelvigoda.com/Charts/189.html)
-[190 - CHRONIC OBSTRUCTIVE PULMONARY DISEASE W MCC](https://michaelvigoda.com/Charts/190.html)
-[392 - "ESOPHAGITIS, GASTROENT & MISC DIGEST DISORDERS W/O MCC"](https://michaelvigoda.com/Charts/392.html)
-[683 - RENAL FAILURE W CC](https://michaelvigoda.com/Charts/683.html)
-[378 - G.I. HEMORRHAGE W CC](https://michaelvigoda.com/Charts/378.html)
+[871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC](https://michaelvigoda.com/Charts/871.html)  
+[470 - MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREM](https://michaelvigoda.com/Charts/470.html)  
+[291 - HEART FAILURE & SHOCK W MCC](https://michaelvigoda.com/Charts/291.html)  
+[193 - SIMPLE PNEUMONIA & PLEURISY W MCC](https://michaelvigoda.com/Charts/193.html)  
+[872 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W/O MCC](https://michaelvigoda.com/Charts/872.html)  
+[189 - PULMONARY EDEMA & RESPIRATORY FAILURE](https://michaelvigoda.com/Charts/189.html)  
+[190 - CHRONIC OBSTRUCTIVE PULMONARY DISEASE W MCC](https://michaelvigoda.com/Charts/190.html)  
+[392 - "ESOPHAGITIS, GASTROENT & MISC DIGEST DISORDERS W/O MCC"](https://michaelvigoda.com/Charts/392.html)  
+[683 - RENAL FAILURE W CC](https://michaelvigoda.com/Charts/683.html)  
+[378 - G.I. HEMORRHAGE W CC](https://michaelvigoda.com/Charts/378.html)  
+  
 
 
 # Longitudinal View of Top Sites for Top DRGs
