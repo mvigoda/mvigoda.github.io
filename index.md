@@ -63,7 +63,7 @@ Here's a footnote [^1]. Here it is in Basic Formatting.
 # A
 
 
- 
+<a id="DETAIL SECTION"></a>
 # DETAIL SECTION
 
 <a id="here"></a>
