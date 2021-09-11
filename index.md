@@ -3,10 +3,11 @@
 [Top DRGs Based on Discharges](#Top DRGs Based on Discharges)   
 [Top  Based on Discharges](#Top Based on Discharges)   
 [Longitudinal View of Top Sites for Top DRGs](#Longitudinal View of Top Sites for Top DRGs)  
-[DETAIL SECTION](# DETAIL SECTION)  
-[Header A](# Header A)  
-[Header B](# Header B)  
-[Subheader ONE](# Subheader ONE)  
+[DETAIL SECTION](#DETAIL SECTION)  
+[Header A](#Header A)  
+[Header B](#Header B)  
+[Subheader ONE](#Subheader ONE)  
+[DRGs Based on Discharges](#DRGs Based on Discharges)   
 
 
 
@@ -68,6 +69,13 @@ Here's a footnote [^1]. Here it is in Basic Formatting.
 
 <a id="Subheader ONE"></a>
 ## Subheader ONE
+
+
+
+<a id="DRGs Based on Discharges"></a>
+# DRGs Based on Discharges
+
+[871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC](https://michaelvigoda.com/Charts/871.html)  
 
 
 
