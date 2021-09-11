@@ -1,6 +1,7 @@
 
 
 [Top DRGs Based on Discharges](#Top DRGs Based on Discharges)   
+[Top  Based on Discharges](#Top Based on Discharges)   
 [Longitudinal View of Top Sites for Top DRGs](#Longitudinal View of Top Sites for Top DRGs)  
 
 
@@ -14,6 +15,8 @@
 
 
 
+<a id="Header A"></a>
+# Header A
 
 
 
@@ -29,6 +32,8 @@ Bar Charts showing Top 10 DRGs - Discharges
 
 
 
+<a id="Top Based on Discharges"></a>
+# Top Based on Discharges
 
  
 
@@ -62,8 +67,6 @@ Here's a footnote [^1]. Here it is in Basic Formatting.
 
 
 
-<a id="Header A"></a>
-# Header A
 
 <a id="Header B"></a>
 # Header B
