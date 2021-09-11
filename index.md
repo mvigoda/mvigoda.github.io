@@ -3,14 +3,9 @@
 [Top DRGs Based on Discharges](#Top DRGs Based on Discharges)   
 [Top  Based on Discharges](#Top Based on Discharges)   
 [Longitudinal View of Top Sites for Top DRGs](#Longitudinal View of Top Sites for Top DRGs)  
-
-
 [DETAIL SECTION](# DETAIL SECTION)  
-
-
 [Header A](# Header A)  
 [Header B](# Header B)  
-
 [Subheader ONE](# Subheader ONE)  
 
 
