@@ -1,7 +1,7 @@
 
 
 [Top DRGs Based on Discharges](#Top DRGs Based on Discharges)   
-[Details](## DETAIL SECTION)
+[Details](# DETAIL SECTION)
 [Longitudinal View of Top Sites for Top DRGs](#Longitudinal-View-of-Top-Sites-for-Top-DRGs)  
 [Longitudinal View of Top Sites for Top DRGs](#Longitudinal View of Top Sites for Top DRGs)  
 [A](#A)  
