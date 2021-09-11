@@ -1,6 +1,6 @@
 
 
-[Top DRGs Based on Discharges](#Top-DRGs-Based-on-Discharges)  
+[Top DRGs Based on Discharges](#Top DRGs Based on Discharges)   
 [Longitudinal View of Top Sites for Top DRGs](#Longitudinal-View-of-Top-Sites-for-Top-DRGs)  
 [A](#A)  
 [here](#here) 
@@ -22,8 +22,11 @@ Bar Charts showing Top 10 DRGs - Discharges
 
 
 
-# Top DRGs Based on Discharges
 
+ 
+
+<a id="Top DRGs Based on Discharges"></a>
+# Top DRGs Based on Discharges
 
 [871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC](https://michaelvigoda.com/Charts/871.html)  
 [470 - MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREM](https://michaelvigoda.com/Charts/470.html)  
