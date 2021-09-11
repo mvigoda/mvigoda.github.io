@@ -1,9 +1,11 @@
 
 
-[Top DRGs Based on Discharges](#Top-DRGs-Based-on-Discharges)
-[Longitudinal View of Top Sites for Top DRGs](#Longitudinal-View-of-Top-Sites-for-Top-DRGs)
-[A](#A)
+[Top DRGs Based on Discharges](#Top-DRGs-Based-on-Discharges)  
+[Longitudinal View of Top Sites for Top DRGs](#Longitudinal-View-of-Top-Sites-for-Top-DRGs)  
+[A](#A)  
+[here](#here) 
 
+[Link text](#some-id)
 
 
 
@@ -55,3 +57,10 @@ Here's a footnote [^1]. Here it is in Basic Formatting.
 
 # A
 
+
+ 
+<a name="some-id"></a>  
+# DETAIL SECTION
+
+<a id="here"></a>
+# here
