@@ -3,9 +3,8 @@
 [Top DRGs Based on Discharges](#Top DRGs Based on Discharges)   
 [Top  Based on Discharges](#Top Based on Discharges)   
 [Longitudinal View of Top Sites for Top DRGs](#Longitudinal View of Top Sites for Top DRGs)  
-[DETAIL SECTION](#DETAIL SECTION)  
 [Header A](#Header A)  
-[Header B](#Header B)  
+[Links to Posts](#Links to Posts)  
 [Subheader ONE](#Subheader ONE)  
 [DRGs Based on Discharges](#DRGs Based on Discharges)   
 
@@ -34,7 +33,9 @@ Bar Charts showing Top 10 DRGs - Discharges
  
 
 <a id="Top DRGs Based on Discharges"></a>
-# Top DRGs Based on Discharges
+# Top DRGs Based on Discharges  
+The top DRGs, based on number of total discharges for all sites reporting that DRG in 2018, the latest year 
+for which there is publicly available data.
 
 [871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC](https://michaelvigoda.com/Charts/871.html)  
 [470 - MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREM](https://michaelvigoda.com/Charts/470.html)  
@@ -68,8 +69,11 @@ Here's a footnote [^1]. Here it is in Basic Formatting.
 
 
 
-<a id="Header B"></a>
-# Header B
+<a id="Links to Posts"></a>
+# Links to Posts  
+[References for Machine Learning](https://michaelvigoda.com/2021/05/07/References-for-Machine-Learning.html)  
+[Markdown Examples](https://michaelvigoda.com/2020/01/01/Markdown-examples.html)
+[Top DRGs Payments](https://michaelvigoda.com/2021/09/07/Top-DRGs-Payments.html)
 
 <a id="Subheader ONE"></a>
 ## Subheader ONE
