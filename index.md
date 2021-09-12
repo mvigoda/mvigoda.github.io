@@ -23,11 +23,11 @@ LaTex | | LaTex | |
  \neg\not | ¬ |
 
 
-LaTex |   |
- ————:|—  |
- \wedge   |
- \vee | ∨ |
- \neg\not |
+|LaTex |   |
+| ————:|—  |
+| \wedge   |
+| \vee | ∨ |
+| \neg\not |
 
 
 
