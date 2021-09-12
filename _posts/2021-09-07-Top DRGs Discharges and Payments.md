@@ -10,11 +10,11 @@ by Discharges.svg"  width="300" height="300" ALT="image">
 
 
 
-| DRG  | Description  |
-|---|---|
+| DRG  | Description  |  
+|---|---|  
 | <div style="text-align: center;">
 <IMG SRC="https://michaelvigoda.com/Dir_Plot_Top_DRGs/Top DRGs SVGs/2011 Top DRGs - 
-by Discharges.svg"  width="300" height="300" ALT="image"> | Major Joint Replacement or Reattachment Of Lower Extremity W/O MCC | 
+by Discharges.svg"  width="300" height="300" ALT="image"> | Major Joint Replacement or Reattachment Of Lower Extremity W/O MCC |   
 
 
 2011 Discharges            |  2011 Payments
