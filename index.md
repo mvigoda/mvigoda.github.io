@@ -55,14 +55,14 @@ For the Top DRGs, we examine the longitudinal discharge history for the top 10 s
 
 1. [871](https://michaelvigoda.com/Charts/Top_sites_871.html)    
 2. [470](https://michaelvigoda.com/Charts/Top_sites_470.html)  
-[291 - HEART FAILURE & SHOCK W MCC](https://michaelvigoda.com/Charts/Top_sites_291.html)  
-[193 - SIMPLE PNEUMONIA & PLEURISY W MCC](https://michaelvigoda.com/Charts/Top_sites_193.html)  
-[872 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W/O MCC](https://michaelvigoda.com/Charts/Top_sites_872.html)  
-[189 - PULMONARY EDEMA & RESPIRATORY FAILURE](https://michaelvigoda.com/Charts/Top_sites_189.html)    
-[190 - CHRONIC OBSTRUCTIVE PULMONARY DISEASE W MCC](https://michaelvigoda.com/Charts/Top_sites_190.html)  
-[392 - "ESOPHAGITIS, GASTROENT & MISC DIGEST DISORDERS W/O MCC"](https://michaelvigoda.com/Charts/Top_sites_392.html)  
-[683 - RENAL FAILURE W CC](https://michaelvigoda.com/Charts/Top_sites_683.html)  
-[378 - G.I. HEMORRHAGE W CC](https://michaelvigoda.com/Charts/Top_sites_378.html)  
+3. [291 - HEART FAILURE & SHOCK W MCC](https://michaelvigoda.com/Charts/Top_sites_291.html)  
+4. [193 - SIMPLE PNEUMONIA & PLEURISY W MCC](https://michaelvigoda.com/Charts/Top_sites_193.html)  
+5. [872 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W/O MCC](https://michaelvigoda.com/Charts/Top_sites_872.html)  
+6. [189 - PULMONARY EDEMA & RESPIRATORY FAILURE](https://michaelvigoda.com/Charts/Top_sites_189.html)    
+7. [190 - CHRONIC OBSTRUCTIVE PULMONARY DISEASE W MCC](https://michaelvigoda.com/Charts/Top_sites_190.html)  
+8. [392 - "ESOPHAGITIS, GASTROENT & MISC DIGEST DISORDERS W/O MCC"](https://michaelvigoda.com/Charts/Top_sites_392.html)  
+9. [683 - RENAL FAILURE W CC](https://michaelvigoda.com/Charts/Top_sites_683.html)  
+10. [378 - G.I. HEMORRHAGE W CC](https://michaelvigoda.com/Charts/Top_sites_378.html)  
 
 Here's a footnote [^1]. Here it is in Basic Formatting. 
 
