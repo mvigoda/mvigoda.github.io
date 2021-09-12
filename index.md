@@ -23,6 +23,13 @@ LaTex | | LaTex | |
  \neg\not | ¬ |
 
 
+LaTex |   |
+ ————:|—  |
+ \wedge   |
+ \vee | ∨ |
+ \neg\not |
+
+
 
 
 [Sepsis | Michael Vigoda](https://michaelvigoda.com/2020/01/24/Sepsis.html#cms-data-by-years)  
@@ -100,7 +107,7 @@ in the latest year of data (2018)[^2].
 [871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC](https://michaelvigoda.com/Charts/871.html)  
 
 
-
+<a id="Footnotes"></a>
 # Footnotes
 [^1]: The code for **Top DRGs Based on Discharges** is found in xxx.  
 [^2]: The code for **Longitudinal View of Top Sites for Top DRGs** is found in xxx.
