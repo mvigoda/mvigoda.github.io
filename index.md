@@ -10,9 +10,8 @@
 [Footnotes](#Footnotes)
 
 
-https://michaelvigoda.com/sample_page.md
 
-[link here](https://michaelvigoda.com/sample_page.md)
+[sample_page](https://michaelvigoda.com/sample_page.md)
 
 
 [Sample Header 1](https://michaelvigoda.com/2019/01/01/Tips-for-using-this-as-a-website.html#sample-header-1)
@@ -25,30 +24,6 @@ https://michaelvigoda.com/sample_page.md
 |---|---|
 | 470 | Major Joint Replacement or Reattachment Of Lower Extremity W/O MCC | 
 
-
-
-
-LaTex | | LaTex | | ————:|—|——-:|–:| \wedge | ∧ | \vee | ∨ | \neg\not | ¬ | | |
-
-LaTex | | LaTex | |
- ————:|—|——-:|–:|
- \wedge | ∧ |
- \vee | ∨ |
- \neg\not | ¬ |
-
-
-LaTex |   |
- ————:|—  |
- \wedge   |
- \vee | ∨ |
- \neg\not |
-
-
-|LaTex |   |
-| ————:|—  |
-| \wedge   |
-| \vee | ∨ |
-| \neg\not |
 
 
 
