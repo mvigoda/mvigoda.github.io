@@ -6,9 +6,18 @@
 
 [Export your account data](https://help.medium.com/hc/en-us/articles/115004745787-Export-your-account-data)
 
-- downloaded to Downloads
+- Downloaded to Downloads
 - Run the code below which is in **download_medium_to_markdown.py**
 - Grab the code and then put into this markdown page
+
+
+
+> Next Steps:
+>
+> - 🟥: Not implemented - read as TXT file, put into a df, then sort by some subheader
+> - 🟨: Legacy material available, to be updated or re-written
+> - 🟦: Available, modification required
+> - 🟩: Good to go
 
 
 
