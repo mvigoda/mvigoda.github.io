@@ -2,8 +2,15 @@
 {:toc}
 
 
+
+
+[Export your account data](https://help.medium.com/hc/en-us/articles/115004745787-Export-your-account-data)
+
+
+
 # Code to Download
-```# Setup
+```
+# Setup
 import glob
 import os
 from markdownify import markdownify
@@ -29,6 +36,8 @@ text_file = open("bookmark_list.md", "w")
 text_file.write("\n".join(md_text_list))
 text_file.close()
 ```
+
+
 
 
 # Medium Links of Interest  
