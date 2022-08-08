@@ -3,9 +3,8 @@
 [Top DRGs Based on Discharges](#Top DRGs Based on Discharges)   
 [Top  Based on Discharges](#Top Based on Discharges)   
 [Longitudinal View of Top Sites for Top DRGs](#Longitudinal View of Top Sites for Top DRGs)  
-[Header A](#Header A)  
+[Top DRGs](#Top DRGs)  
 [Links to Posts](#Links to Posts)  
-[Subheader ONE](#Subheader ONE)  
 [DRGs Based on Discharges](#DRGs Based on Discharges)   
 
 
@@ -15,10 +14,10 @@
 [Footnotes](#Footnotes)
 
 [Sample Header 1](https://michaelvigoda.com/2019/01/01/Tips-for-using-this-as-a-website.html#sample-header-1)
-<a id="Header A"></a>
-# Header A
 
 
+<a id="Top DRGs"></a>
+# Top DRGs
 
 | DRG  | Description  |
 |---|---|
@@ -92,10 +91,6 @@ in the latest year of data (2018)[^2].
 [References for Machine Learning](https://michaelvigoda.com/2021/05/07/References-for-Machine-Learning.html)  
 [Markdown Examples](https://michaelvigoda.com/2020/01/01/Markdown-examples.html)  
 [Top DRGs Payments](https://michaelvigoda.com/2021/09/07/Top-DRGs-Payments.html)  
-
-<a id="Subheader ONE"></a>
-## Subheader ONE
-
 
 
 <a id="DRGs Based on Discharges"></a>
