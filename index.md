@@ -8,12 +8,12 @@
 
 [Links to Posts](#Links_to_Posts)  
 
-[Tips for Using as a Website](https://michaelvigoda.com/2019/01/01/Tips-for-using-this-as-a-website.html#sample-header-1)
 
 [Footnotes](#Footnotes)  
 
 # Other
 - [References for Machine Learning](https://michaelvigoda.com/2021/05/07/References-for-Machine-Learning.html)  
+- [Tips for Using as a Website](https://michaelvigoda.com/2019/01/01/Tips-for-using-this-as-a-website.html#sample-header-1)
 
 
 
