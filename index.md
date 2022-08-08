@@ -7,12 +7,12 @@
 [Links to Posts](#Links to Posts)  
 [Subheader ONE](#Subheader ONE)  
 [DRGs Based on Discharges](#DRGs Based on Discharges)   
-[Footnotes](#Footnotes)
 
 
 
 [sample_page](https://michaelvigoda.com/sample_page.md)
 
+[Footnotes](#Footnotes)
 
 [Sample Header 1](https://michaelvigoda.com/2019/01/01/Tips-for-using-this-as-a-website.html#sample-header-1)
 <a id="Header A"></a>
@@ -105,6 +105,6 @@ in the latest year of data (2018)[^2].
 
 
 <a id="Footnotes"></a>
-# Footnotes
+## Footnotes
 [^1]: The code for **Top DRGs Based on Discharges** is found in xxx.  
 [^2]: The code for **Longitudinal View of Top Sites for Top DRGs** is found in xxx.
