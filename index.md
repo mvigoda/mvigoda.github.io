@@ -3,6 +3,7 @@
 - [Top DRGs Based on Discharges](#Top DRGs Based on Discharges)   
 - [Longitudinal View of Top Sites for Top DRGs](#Longitudinal View of Top Sites for Top DRGs)  
 - [DRGs Based on Discharges](#DRGs Based on Discharges)   
+- [Top DRGs Based on Discharges](#Top DRGs Based on Discharges)   
 - [Sepsis | Michael Vigoda](https://michaelvigoda.com/2020/01/24/Sepsis.html#cms-data-by-years)  
 - [2011 Bar Chart showing Top 10 DRGs Discharges](https://michaelvigoda.com/Dir_Plot_Top_DRGs/Top DRGs SVGs/2011 Top DRGs - by Discharges.svg)
 
