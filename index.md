@@ -6,17 +6,9 @@
 [DRGs Based on Discharges](#DRGs Based on Discharges)   
 
 
-
-[sample_page](https://michaelvigoda.com/sample_page.md)
-
 [Footnotes](#Footnotes)
 
 [Sample Header 1](https://michaelvigoda.com/2019/01/01/Tips-for-using-this-as-a-website.html#sample-header-1)
-
-
-
-
-
 
 
 
@@ -27,8 +19,9 @@
 Bar Charts showing Top 10 DRGs - Discharges
 - [2011 Discharges](https://michaelvigoda.com/Dir_Plot_Top_DRGs/Top DRGs SVGs/2011 Top DRGs - by Discharges.svg)
 
-[Table of Discharges 2011 - 2018](https://michaelvigoda.com/Tables/Table-of-Discharges.md)   
-[Table of Payments 2011 - 2018](https://michaelvigoda.com/Tables/Table-of-Payments.md)
+# Tables
+- [Table of Discharges 2011 - 2018](https://michaelvigoda.com/Tables/Table-of-Discharges.md)   
+- [Table of Payments 2011 - 2018](https://michaelvigoda.com/Tables/Table-of-Payments.md)
 
 
 
@@ -89,6 +82,12 @@ in the latest year of data (2018)[^2].
 # DRGs Based on Discharges
 
 [871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC](https://michaelvigoda.com/Charts/871.html)  
+
+
+
+[sample_page](https://michaelvigoda.com/sample_page.md)
+
+
 
 
 <a id="Footnotes"></a>
