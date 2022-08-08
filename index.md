@@ -1,7 +1,6 @@
 
 
 [Top DRGs Based on Discharges](#Top DRGs Based on Discharges)   
-[Top Based on Discharges](#Top Based on Discharges)   
 [Longitudinal View of Top Sites for Top DRGs](#Longitudinal View of Top Sites for Top DRGs)  
 [Links to Posts](#Links to Posts)  
 [DRGs Based on Discharges](#DRGs Based on Discharges)   
@@ -30,13 +29,6 @@ Bar Charts showing Top 10 DRGs - Discharges
 
 [Table of Discharges 2011 - 2018](https://michaelvigoda.com/Tables/Table-of-Discharges.md)   
 [Table of Payments 2011 - 2018](https://michaelvigoda.com/Tables/Table-of-Payments.md)
-
-
-
-<a id="Top Based on Discharges"></a>
-# Top Based on Discharges
-
-
 
 
 
