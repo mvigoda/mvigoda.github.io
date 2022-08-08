@@ -1,13 +1,13 @@
 
 # DRG Related
 - [Top DRGs Based on Discharges](#Top_DRGs_Based_on_Discharges)   
-- [Longitudinal View of Top Sites for Top DRGs](#Longitudinal View of Top Sites for Top DRGs)  
+- [Longitudinal View of Top Sites for Top DRGs](#Longitudinal_View_of_Top_Sites_for_Top_DRGs)  
 - [DRGs Based on Discharges](#DRGs Based on Discharges)   
 - [Top DRGs Based on Discharges](#Top DRGs Based on Discharges)   
 - [Sepsis](https://michaelvigoda.com/2020/01/24/Sepsis.html#cms-data-by-years)  
 - [2011 Bar Chart showing Top 10 DRGs Discharges](https://michaelvigoda.com/Dir_Plot_Top_DRGs/Top DRGs SVGs/2011 Top DRGs - by Discharges.svg)
 
-[Links to Posts](#Links to Posts)  
+[Links to Posts](#Links_to_Posts)  
 
 [Tips for Using as a Website](https://michaelvigoda.com/2019/01/01/Tips-for-using-this-as-a-website.html#sample-header-1)
 
@@ -48,7 +48,7 @@ for which there is publicly available data[^1].
 
 
 
-<a id="Longitudinal View of Top Sites for Top DRGs"></a>
+<a id="Longitudinal_View_of_Top_Sites_for_Top_DRGs"></a>
 # Longitudinal View of Top Sites for Top DRGs  
 For the Top DRGs, 
 we examine the longitudinal discharge history for the top 10 sites 
@@ -71,7 +71,7 @@ in the latest year of data (2018)[^2].
 
 
 
-<a id="Links to Posts"></a>
+<a id="Links_to_Posts"></a>
 # Links to Posts  
 [References for Machine Learning](https://michaelvigoda.com/2021/05/07/References-for-Machine-Learning.html)  
 [Markdown Examples](https://michaelvigoda.com/2020/01/01/Markdown-examples.html)  
