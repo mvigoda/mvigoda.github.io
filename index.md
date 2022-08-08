@@ -1,10 +1,12 @@
 
+# DRG Related
+- [Top DRGs Based on Discharges](#Top DRGs Based on Discharges)   
+- [Longitudinal View of Top Sites for Top DRGs](#Longitudinal View of Top Sites for Top DRGs)  
+- [DRGs Based on Discharges](#DRGs Based on Discharges)   
+- [Sepsis | Michael Vigoda](https://michaelvigoda.com/2020/01/24/Sepsis.html#cms-data-by-years)  
+- [2011 Bar Chart showing Top 10 DRGs Discharges](https://michaelvigoda.com/Dir_Plot_Top_DRGs/Top DRGs SVGs/2011 Top DRGs - by Discharges.svg)
 
-[Top DRGs Based on Discharges](#Top DRGs Based on Discharges)   
-[Longitudinal View of Top Sites for Top DRGs](#Longitudinal View of Top Sites for Top DRGs)  
 [Links to Posts](#Links to Posts)  
-[DRGs Based on Discharges](#DRGs Based on Discharges)   
-
 
 [Footnotes](#Footnotes)
 
@@ -12,12 +14,10 @@
 
 
 
-[Sepsis | Michael Vigoda](https://michaelvigoda.com/2020/01/24/Sepsis.html#cms-data-by-years)  
 [References for Machine Learning](https://michaelvigoda.com/2021/05/07/References-for-Machine-Learning.html)  
 
 
-Bar Charts showing Top 10 DRGs - Discharges
-- [2011 Discharges](https://michaelvigoda.com/Dir_Plot_Top_DRGs/Top DRGs SVGs/2011 Top DRGs - by Discharges.svg)
+
 
 # Tables
 - [Table of Discharges 2011 - 2018](https://michaelvigoda.com/Tables/Table-of-Discharges.md)   
