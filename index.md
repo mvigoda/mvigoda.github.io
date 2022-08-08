@@ -1,4 +1,9 @@
 
+
+1. TOC
+{:toc}
+
+
 # DRG Related
 - [Top DRGs Based on Discharges](#Top_DRGs_Based_on_Discharges)   
 - [Longitudinal View of Top Sites for Top DRGs](#Longitudinal_View_of_Top_Sites_for_Top_DRGs)  
