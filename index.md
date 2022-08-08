@@ -1,9 +1,8 @@
 
 
 [Top DRGs Based on Discharges](#Top DRGs Based on Discharges)   
-[Top  Based on Discharges](#Top Based on Discharges)   
+[Top Based on Discharges](#Top Based on Discharges)   
 [Longitudinal View of Top Sites for Top DRGs](#Longitudinal View of Top Sites for Top DRGs)  
-[Top DRGs](#Top DRGs)  
 [Links to Posts](#Links to Posts)  
 [DRGs Based on Discharges](#DRGs Based on Discharges)   
 
@@ -16,12 +15,6 @@
 [Sample Header 1](https://michaelvigoda.com/2019/01/01/Tips-for-using-this-as-a-website.html#sample-header-1)
 
 
-<a id="Top DRGs"></a>
-# Top DRGs
-
-| DRG  | Description  |
-|---|---|
-| 470 | Major Joint Replacement or Reattachment Of Lower Extremity W/O MCC | 
 
 
 
@@ -43,7 +36,9 @@ Bar Charts showing Top 10 DRGs - Discharges
 <a id="Top Based on Discharges"></a>
 # Top Based on Discharges
 
- 
+
+
+
 
 <a id="Top DRGs Based on Discharges"></a>
 # Top DRGs Based on Discharges  
@@ -62,6 +57,11 @@ for which there is publicly available data[^1].
 [683 - RENAL FAILURE W CC](https://michaelvigoda.com/Charts/683.html)  
 [378 - G.I. HEMORRHAGE W CC](https://michaelvigoda.com/Charts/378.html)  
   
+| DRG  | Description  |
+|---|---|
+| 470 | Major Joint Replacement or Reattachment Of Lower Extremity W/O MCC | 
+
+
 
 <a id="Longitudinal View of Top Sites for Top DRGs"></a>
 # Longitudinal View of Top Sites for Top DRGs  
