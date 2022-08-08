@@ -2,8 +2,7 @@
 # DRG Related
 - [Top DRGs Based on Discharges](#Top_DRGs_Based_on_Discharges)   
 - [Longitudinal View of Top Sites for Top DRGs](#Longitudinal_View_of_Top_Sites_for_Top_DRGs)  
-- [DRGs Based on Discharges](#DRGs Based on Discharges)   
-- [Top DRGs Based on Discharges](#Top DRGs Based on Discharges)   
+- [DRGs Based on Discharges](#DRGs_Based_on_Discharges)   
 - [Sepsis](https://michaelvigoda.com/2020/01/24/Sepsis.html#cms-data-by-years)  
 - [2011 Bar Chart showing Top 10 DRGs Discharges](https://michaelvigoda.com/Dir_Plot_Top_DRGs/Top DRGs SVGs/2011 Top DRGs - by Discharges.svg)
 
@@ -78,7 +77,7 @@ in the latest year of data (2018)[^2].
 [Top DRGs Payments](https://michaelvigoda.com/2021/09/07/Top-DRGs-Payments.html)  
 
 
-<a id="DRGs Based on Discharges"></a>
+<a id="DRGs_Based_on_Discharges"></a>
 # DRGs Based on Discharges
 
 [871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC](https://michaelvigoda.com/Charts/871.html)  
