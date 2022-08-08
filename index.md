@@ -1,6 +1,6 @@
 
 # DRG Related
-- [Top DRGs Based on Discharges](#Top DRGs Based on Discharges)   
+- [Top DRGs Based on Discharges](#Top_DRGs_Based_on_Discharges)   
 - [Longitudinal View of Top Sites for Top DRGs](#Longitudinal View of Top Sites for Top DRGs)  
 - [DRGs Based on Discharges](#DRGs Based on Discharges)   
 - [Top DRGs Based on Discharges](#Top DRGs Based on Discharges)   
@@ -25,7 +25,7 @@
 
 
 
-<a id="Top DRGs Based on Discharges"></a>
+<a id="Top_DRGs_Based_on_Discharges"></a>
 # Top DRGs Based on Discharges  
 The top DRGs, based on number of total discharges for all sites 
 reporting that DRG in 2018, the latest year 
