@@ -10,22 +10,23 @@
 - [DRGs Based on Discharges](#DRGs_Based_on_Discharges)   
 - [Sepsis](https://michaelvigoda.com/2020/01/24/Sepsis.html#cms-data-by-years)  
 - [2011 Bar Chart showing Top 10 DRGs Discharges](https://michaelvigoda.com/Dir_Plot_Top_DRGs/Top DRGs SVGs/2011 Top DRGs - by Discharges.svg)
+## Tables
+- [Table of Discharges 2011 - 2018](https://michaelvigoda.com/Tables/Table-of-Discharges.md)   
+- [Table of Payments 2011 - 2018](https://michaelvigoda.com/Tables/Table-of-Payments.md)
 
-[Links to Posts](#Links_to_Posts)  
 
 
-[Footnotes](#Footnotes)  
+
+
 
 # Other
+- [Links to Posts](#Links_to_Posts)  
 - [References for Machine Learning](https://michaelvigoda.com/2021/05/07/References-for-Machine-Learning.html)  
 - [Tips for Using as a Website](https://michaelvigoda.com/2019/01/01/Tips-for-using-this-as-a-website.html#sample-header-1)
 
 
+[Footnotes](#Footnotes)  
 
-
-# Tables
-- [Table of Discharges 2011 - 2018](https://michaelvigoda.com/Tables/Table-of-Discharges.md)   
-- [Table of Payments 2011 - 2018](https://michaelvigoda.com/Tables/Table-of-Payments.md)
 
 
 
